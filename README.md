@@ -10,8 +10,8 @@
 
 1. To prepare a dataset which labels courses as computer science or non-computer science based off a definition
 2. To merge and combine various datasets to create one single source of truth. 
-3. To create a map visualization which highlights which schools teach computer science and don't in a county. 
-4. To embed the map into Google sites.
+3. To create a map visualization which highlights which schools teach computer science and don't and which schools do we have no information on. 
+4. To embed the map into CS For All Google site.
 
 
 ## Getting Started
@@ -82,10 +82,15 @@ To setup this project on your local computer you will need to:
 	2. Type ``git clone https://github.com/zcolah/CS_High_School_Education_WA.git`` to clone this repository.
 	3. Type ``cd CS_High_School_Education_WA`` to change your active directory to the repository folder you just downlaoded
 	4. Type ``jupyter notebook`` to launch Jupyter Notebook. You can use it to explore and modify the python notebooks in this repository and to create a new notebook in this repository.
-5. **What next?** 
 
-	a. We recommend that you first read the Data Exploration Notebook which prints each dataframe of the csv files availables and provides a schema explanation for each. 
+6. **Open and Read the following notebooks in the following order**
+
+	**a. Stage 1: Labelling Courses as CS and Non-CS Courses**
 	
-	b. After this we recommend that you read the Data Preperation notebook.
+	**b. Stage 2: Preparing Dataset for Visualization**
 	
-	c. After that you can view the exported prepared datasets. If you want to use the dataset for the visualization we made, please check out the data visualization notebook and the Power BI report. 
+	**c. Stage 3: Making Visualization in Power BI**
+	
+	**d. Stage 4: Embedding Visualization in Google Sites**
+	
+	*To learn more about any dataset read the data schema notebook. We recommended referring to this while reading the Part 2 Notebook.*
