@@ -1,4 +1,4 @@
-#Computer Science Education in WA High Schools for 2017-2018
+# Computer Science Education in WA High Schools for 2017-2018
 
 *A Code and Cognition Lab project by Dr.Andy Ko and Zoshua Colah to identify high schools in Washington State which teach computer science.*
 
