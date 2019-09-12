@@ -36,13 +36,15 @@ Python is a scripting language for data science used by programmers that want to
 		
 - **Pandas**: for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. The course recommended above discusses how to use this package in detail.
 	- **[Installation Guide](https://pandas.pydata.org/pandas-docs/stable/install.html)**
-	- **[CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)**: We highly recommended reading this cheatsheet and using it as a reference point when manipulating dataframes.
+	- **[CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)**: **We highly recommended reading this cheatsheet and using it as a reference point when manipulating dataframes.**
 
 ##### Python Jupyter Notebooks
 
 The Jupyter Notebook is a very powerful tool for creating and presenting data science projects. It can combine code with visualizations, narrative text, mathematical equations and other media. Data scientists use it to write their code, document it, run it, look at the outcome and visualize data in the same environment! 
 
-- **[Installation Guide](https://medium.com/data-science-library/starter-guide-to-a-jupyter-notebook-e2bea661fca4)**
+- **[Installation Guide](https://medium.com/data-science-library/starter-guide-to-a-jupyter-notebook-e2bea661fca4). Note this involves installing a software called Anaconda. It is the standard platform for Python data science, leading in open source innovation for machine learning.**
+
+
 - **[CheatSheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)**
 
 ####Microsoft Power BI Online
@@ -93,4 +95,4 @@ To setup this project on your local computer you will need to:
 	
 	**d. Stage 4: Embedding Visualization in Google Sites**
 	
-	*To learn more about any dataset read the data schema notebook. We recommended referring to this while reading the Part 2 Notebook.*
+	*To learn more about any dataset read the data schema notebook. We recommended referring to this while reading the Stage 2 Notebook.*
