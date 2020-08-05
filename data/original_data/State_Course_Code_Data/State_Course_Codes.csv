@@ -1,0 +1,3687 @@
+statecoursecodeid,code,name,CS_Courses
+1,1001,English/Language Arts I (9th grade) 01001,no
+2,1002,English/Language Arts II (10th grade) 01002,no
+3,1003,English/Language Arts III (11th grade) 01003,no
+4,1004,English/Language Arts IV (12th grade) 01004,no
+5,1005,AP English Language and Composition 01005,no
+6,1006,AP English Literature and Composition 01006,no
+7,1007,IB Language A (English) 01007,no
+8,1008,English as a Second Language 01008,no
+9,1009,Language Arts Laboratory 01009,no
+10,1051,English/Literature (freshmen and sophomores) 01051,no
+11,1052,English/Literature (juniors and seniors) 01052,no
+12,1053,Literature 01053,no
+13,1054,American Literature 01054,no
+14,1055,American Literature/History 01055,no
+15,1056,British Literature 01056,no
+16,1057,British Literature/History 01057,no
+17,1058,World Literature 01058,no
+18,1059,Biblical Literature 01059,no
+19,1060,Literature of an Author 01060,no
+20,1061,Literature of a Genre 01061,no
+21,1062,Literature of a Period 01062,no
+22,1063,Literature of a Place 01063,no
+23,1064,Literature of a People 01064,no
+24,1065,Literature of a Theme 01065,no
+25,1066,Strategic Reading 01066,no
+26,1067,Assisted Reading 01067,no
+27,1068,Corrective Reading 01068,no
+28,1097,Literature-Independent Study 01097,no
+29,1098,Literature-Workplace Experience 01098,no
+30,1099,Literature-Other 01099,no
+31,1101,English/Composition (freshmen and sophomores) 01101,no
+32,1102,English/Composition (juniors and seniors) 01102,no
+33,1103,Composition 01103,no
+34,1104,Creative Writing 01104,no
+35,1105,Research/Technical Writing 01105,no
+36,1147,Composition-Independent Study 01147,no
+37,1148,Composition-Workplace Experience 01148,no
+38,1149,Composition-Other 01149,no
+39,1151,Public Speaking 01151,no
+40,1152,Forensic Speech-Inclusive 01152,no
+41,1153,Forensic Speech-Debate 01153,no
+42,1154,Forensic Speech-Individual Event 01154,no
+43,1155,Communications 01155,no
+44,1156,Applied English and Communications 01156,no
+45,1197,Speech-Independent Study 01197,no
+46,1198,Speech-Workplace Experience 01198,no
+47,1199,Speech-Other 01199,no
+48,1201,English Morphology and Grammar 01201,no
+49,1202,History of the English Language 01202,no
+50,1203,English-Test Preparation 01203,no
+51,1992,English Proficiency Development 01992,no
+52,1995,English Language and Literature-Aide 01995,no
+53,1997,English Language and Literature-Independent Study 01997,no
+54,1998,English Language and Literature-Workplace Experience 01998,no
+55,1999,English Language and Literature-Other 01999,no
+56,2001,Informal Mathematics 02001,no
+57,2002,General Math 02002,no
+58,2003,Particular Topics in Foundation Math 02003,no
+59,2047,Foundation Math-Independent Study 02047,no
+60,2049,Foundation Math-Other 02049,no
+61,2051,Pre-Algebra 02051,no
+62,2052,Algebra I 02052,no
+63,2053,Algebra I-Part 1 02053,no
+64,2054,Algebra I-Part 2 02054,no
+65,2055,Transition Algebra 02055,no
+66,2056,Algebra II 02056,no
+67,2057,Algebra III 02057,no
+68,2058,Particular Topics in Algebra 02058,no
+69,2061,Integrated Math- first year  02061,no
+70,2062,Integrated Math- second year  02062,no
+71,2063,Integrated Math-third year 02063,no
+72,2064,Integrated Math-fourth year 02064,no
+73,2069,Algebra-Other 02069,no
+74,2071,Informal Geometry 02071,no
+75,2072,Geometry 02072,no
+76,2073,Analytic Geometry 02073,no
+77,2074,Principles of Algebra and Geometry 02074,no
+78,2075,Particular Topics in Geometry 02075,no
+79,2079,Geometry-Other 02079,no
+80,2101,Number Theory 02101,no
+81,2102,Discrete Mathematics 02102,no
+82,2103,Trigonometry 02103,no
+83,2104,Math Analysis 02104,no
+84,2105,Trigonometry/Math Analysis 02105,no
+85,2106,Trigonometry/Algebra 02106,no
+86,2107,Trigonometry/Analytic Geometry 02107,no
+87,2108,Math Analysis/Analytic Geometry 02108,no
+88,2109,Elementary Functions 02109,no
+89,2110,Pre-Calculus 02110,no
+90,2111,Linear Algebra 02111,no
+91,2112,Linear Programming 02112,no
+92,2113,Abstract Algebra 02113,no
+93,2121,Calculus 02121,no
+94,2122,Multivariate Calculus 02122,no
+95,2123,Differential Calculus 02123,no
+96,2124,AP Calculus AB 02124,no
+97,2125,AP Calculus BC 02125,no
+98,2126,Particular Topics in Calculus 02126,no
+99,2131,IB Mathematical Studies 02131,no
+100,2132,IB Mathematics 02132,no
+101,2133,IB Mathematics and Computing-SL 02133,no
+102,2134,IB Further Mathematics-SL 02134,no
+103,2141,Particular Topics in Analytic Mathematics 02141,no
+104,2149,Analytic Mathematics-Other 02149,no
+105,2151,General Applied Math 02151,no
+106,2152,Occupationally Applied Math 02152,no
+107,2153,Technical Math 02153,no
+108,2154,Business Math 02154,no
+109,2155,Business Math with Algebra 02155,no
+110,2156,Computer Math with Algebra 02156,no
+111,2157,Consumer Math 02157,no
+112,2201,Probability and Statistics 02201,no
+113,2202,Inferential Probability and Statistics 02202,no
+114,2203,AP Statistics 02203,no
+115,2204,Particular Topics in Probability and Statistics 02204,no
+116,2207,Probability and Statistics-Independent Study 02207,no
+117,2209,Probability and Statistics-Other 02209,no
+118,2991,History of Math 02991,no
+119,2993,Mathematics-Test Preparation 02993,no
+120,2994,Mathematics Proficiency Development 02994,no
+121,2995,Mathematics-Aide 02995,no
+122,2997,Mathematics-Independent Study 02997,no
+123,2998,Mathematics-Workplace Experience 02998,no
+124,2999,Mathematics-Other 02999,no
+125,3001,Earth Science 03001,no
+126,3002,Geology 03002,no
+127,3003,Environmental Science 03003,no
+128,3004,Astronomy 03004,no
+129,3005,Marine Science 03005,no
+130,3006,Meteorology 03006,no
+131,3007,Physical Geography 03007,no
+132,3008,Earth and Space Science 03008,no
+133,3047,Earth Science-Independent Study 03047,no
+134,3048,Earth Science-Workplace Experience 03048,no
+135,3049,Earth Science-Other 03049,no
+136,3051,Biology 03051,no
+137,3052,Biology-Advanced Studies 03052,no
+138,3053,Anatomy and Physiology 03053,no
+139,3054,Anatomy 03054,no
+140,3055,Physiology 03055,no
+141,3056,AP Biology 03056,no
+142,3057,IB Biology 03057,no
+143,3058,Botany 03058,no
+144,3059,Genetics 03059,no
+145,3060,Microbiology 03060,no
+146,3061,Zoology 03061,no
+147,3062,Conceptual Biology 03062,no
+148,3063,Particular Topics in Biology 03063,no
+149,3097,Biology-Independent Study 03097,no
+150,3098,Biology-Workplace Experience 03098,no
+151,3099,Biology-Other 03099,no
+152,3101,Chemistry 03101,no
+153,3102,Chemistry-Advanced Studies 03102,no
+154,3103,Organic Chemistry 03103,no
+155,3104,Physical Chemistry 03104,no
+156,3105,Conceptual Chemistry 03105,no
+157,3106,AP Chemistry 03106,no
+158,3107,IB Chemistry 03107,no
+159,3108,Particular Topics in Chemistry 03108,no
+160,3147,Chemistry-Independent Study 03147,no
+161,3148,Chemistry-Workplace Experience 03148,no
+162,3149,Chemistry-Other 03149,no
+163,3151,Physics 03151,no
+164,3152,Physics-Advanced Studies 03152,no
+165,3153,Principles of Technology 03153,no
+166,3155,AP Physics B 03155,no
+167,3156,AP Physics C 03156,no
+168,3157,IB Physics 03157,no
+169,3159,Physical Science 03159,no
+170,3160,IB Physical Science 03160,no
+171,3161,Conceptual Physics 03161,no
+172,3162,Particular Topics in Physics 03162,no
+173,3197,Physics-Independent Study 03197,no
+174,3198,Physics-Workplace Experience 03198,no
+175,3199,Physics-Other 03199,no
+176,3201,Integrated Science 03201,no
+177,3202,Unified Science 03202,no
+178,3203,Applied Biology/Chemistry 03203,no
+179,3204,Technological Inquiry 03204,no
+180,3205,Origins of Science 03205,no
+181,3206,IB Design Technology 03206,no
+182,3207,AP Environmental Science 03207,no
+183,3208,IB Environmental Science 03208,no
+184,3209,Aerospace 03209,no
+185,3210,"Science, Technology and Society 03210",no
+186,3211,Technical Science 03211,no
+187,3212,Scientific Research and Design 03212,no
+188,3994,Life and Physical Sciences-Proficiency Development 03994,no
+189,3995,Life and Physical Sciences-Aide 03995,no
+190,3997,Life and Physical Sciences-Independent Study 03997,no
+191,3998,Life and Physical Sciences-Workplace Experience 03998,no
+192,3999,Life and Physical Sciences-Other 03999,no
+193,4001,World Geography 04001,no
+194,4002,Particular Topics in Geography 04002,no
+195,4003,IB Geography 04003,no
+196,4004,AP Human Geography 04004,no
+197,4047,Geography-Independent Study 04047,no
+198,4048,Geography-Workplace Experience 04048,no
+199,4049,Geography-Other 04049,no
+200,4051,World History-Overview 04051,no
+201,4052,World History and Geography 04052,no
+202,4053,Modern World History 04053,no
+203,4054,IB History 04054,no
+204,4055,Modern European History 04055,no
+205,4056,AP European History 04056,no
+206,4057,AP World History 04057,no
+207,4058,Ancient Civilizations 04058,no
+208,4059,Medieval European History 04059,no
+209,4060,Ancient and Medieval History 04060,no
+210,4061,World Area Studies 04061,no
+211,4062,World People Studies 04062,no
+212,4063,Western Civilization 04063,no
+213,4064,Contemporary World Issues 04064,no
+214,4065,Particular Topics in World History 04065,no
+215,4066,IB Islamic History 04066,no
+216,4097,World History-Independent Study 04097,no
+217,4098,World History-Workplace Experience 04098,no
+218,4099,World History-Other 04099,no
+219,4101,U.S. History-Comprehensive 04101,no
+220,4102,Early U.S. History 04102,no
+221,4103,Modern U.S. History 04103,no
+222,4104,AP U.S. History 04104,no
+223,4105,State-Specific Studies 04105,no
+224,4106,Contemporary U.S. Issues 04106,no
+225,4107,U.S. Ethnic Studies 04107,no
+226,4108,U.S. Gender Studies 04108,no
+227,4109,Particular Topics in U.S. History 04109,no
+228,4111,Washington State History & Government  04111,no
+229,4147,U.S. History-Independent Study 04147,no
+230,4148,U.S. History-Workplace Experience 04148,no
+231,4149,U.S. History-Other 04149,no
+232,4151,U.S. Government-Comprehensive 04151,no
+233,4152,Particular Topics in U.S. Government 04152,no
+234,4153,Political Science 04153,no
+235,4154,Comparative Government 04154,no
+236,4155,International Relations 04155,no
+237,4156,United States and World Affairs 04156,no
+238,4157,AP U.S. Government and Politics 04157,no
+239,4158,AP Comparative Government and Politics 04158,no
+240,4159,AP Government 04159,no
+241,4160,Principles of Democracy 04160,no
+242,4161,Civics 04161,no
+243,4162,Law Studies 04162,no
+244,4163,Consumer Law 04163,no
+245,4164,Business Law 04164,no
+246,4165,Legal System 04165,no
+247,4166,Particular Topics in Law 04166,no
+248,4197,"Government, Politics and Law-Independent Study 04197",no
+249,4198,"Government, Politics and Law-Workplace Experience 04198",no
+250,4199,"Government, Politics and Law-Other 04199",no
+251,4201,Economics 04201,no
+252,4202,Comparative Economics 04202,no
+253,4203,AP Microeconomics 04203,no
+254,4204,AP Macroeconomics 04204,no
+255,4205,AP Economics 04205,no
+256,4206,IB Economics 04206,no
+257,4207,Particular Topics in Economics 04207,no
+258,4247,Economics-Independent Study 04247,no
+259,4248,Economics-Workplace Experience 04248,no
+260,4249,Economics-Other 04249,no
+261,4251,Anthropology 04251,no
+262,4252,Particular Topics in Anthropology 04252,no
+263,4253,IB Social Anthropology 04253,no
+264,4254,Psychology 04254,no
+265,4255,Particular Topics in Psychology 04255,no
+266,4256,AP Psychology 04256,no
+267,4257,IB Psychology 04257,no
+268,4258,Sociology 04258,no
+269,4259,Particular Topics in Sociology 04259,no
+270,4260,Social Science 04260,no
+271,4261,Social Science Research 04261,no
+272,4262,IB Organization Studies 04262,no
+273,4297,Social Sciences-Independent Study 04297,no
+274,4298,Social Sciences-Workplace Experience 04298,no
+275,4299,Social Sciences-Other 04299,no
+276,4301,Humanities Survey 04301,no
+277,4302,Humanities 04302,no
+278,4303,Issues of Western Humanities 04303,no
+279,4304,IB Theory of Knowledge 04304,no
+280,4305,Social Studies 04305,no
+281,4306,Philosophy 04306,no
+282,4307,Particular Topics in Philosophy 04307,no
+283,4308,Modern Intellectual History 04308,no
+284,4309,IB Philosophy 04309,no
+285,4310,Particular Topics in Humanities 04310,no
+286,4347,Humanities-Independent Study 04347,no
+287,4348,Humanities-Workplace Experience 04348,no
+288,4349,Humanities-Other 04349,no
+289,4994,Social Sciences and History-Proficiency Development 04994,no
+290,4995,Social Sciences and History-Aide 04995,no
+291,4997,Social Sciences and History-Independent Study 04997,no
+292,4998,Social Sciences and History-Workplace Experience 04998,no
+293,4999,Social Sciences and History-Other 04999,no
+294,5001,Dance Technique 05001,no
+295,5002,Dance Repertory 05002,no
+296,5003,Expressive Movement 05003,no
+297,5004,Dance Appreciation 05004,no
+298,5005,Choreography 05005,no
+299,5047,Dance-Independent Study 05047,no
+300,5048,Dance-Workplace Experience 05048,no
+301,5049,Dance-Other 05049,no
+302,5051,Introduction to the Theater 05051,no
+303,5052,Theatre Arts 05052,no
+304,5053,Drama-Comprehensive 05053,no
+305,5054,Exploration in Drama 05054,no
+306,5055,Drama-Acting/Performance 05055,no
+307,5056,Drama-Stagecraft 05056,no
+308,5057,Directing 05057,no
+309,5058,Playwriting 05058,no
+310,5059,History and Literature of the Theater 05059,no
+311,5097,Drama-Independent Study 05097,no
+312,5098,Drama-Workplace Experience 05098,no
+313,5099,Drama-Other 05099,no
+314,5101,General Band 05101,no
+315,5102,Concert Band 05102,no
+316,5103,Marching Band 05103,no
+317,5104,Orchestra 05104,no
+318,5105,Contemporary Band 05105,no
+319,5106,Instrumental Ensembles 05106,no
+320,5107,Piano 05107,no
+321,5108,Guitar 05108,no
+322,5109,Individual Technique-Instrumental Music 05109,no
+323,5110,Chorus 05110,no
+324,5111,Vocal Ensembles 05111,no
+325,5112,Individual Technique-Vocal Music 05112,no
+326,5113,Music Theory 05113,no
+327,5114,AP Music Theory 05114,no
+328,5115,IB Music 05115,no
+329,5116,Music History/Appreciation 05116,no
+330,5117,Music History 05117,no
+331,5118,Music Appreciation 05118,no
+332,5119,Composition/Songwriting 05119,no
+333,5147,Music-Independent Study 05147,no
+334,5148,Music-Workplace Experience 05148,no
+335,5149,Music-Other 05149,no
+336,5151,Art Appreciation 05151,no
+337,5152,Art History 05152,no
+338,5153,AP Art-History of Art 05153,no
+339,5154,Creative Art-Comprehensive 05154,no
+340,5155,Creative Art-Drawing/Painting 05155,no
+341,5156,Creative Art-Drawing 05156,no
+342,5157,Creative Art-Painting 05157,no
+343,5158,Creative Art-Sculpture 05158,no
+344,5159,Ceramics/Pottery 05159,no
+345,5160,Printmaking/Graphics 05160,no
+346,5161,Printmaking 05161,no
+347,5162,Graphic Design 05162,no
+348,5163,Advertising Design 05163,no
+349,5164,Textiles 05164,no
+350,5165,Crafts 05165,no
+351,5166,Jewelry 05166,no
+352,5167,Photography 05167,no
+353,5168,Film/Videotape 05168,no
+354,5169,Computer-Assisted Art 05169,no
+355,5170,Art Portfolio 05170,no
+356,5171,AP Studio Art-General Portfolio 05171,no
+357,5172,AP Studio Art-Drawing Portfolio 05172,no
+358,5173,IB Art/Design 05173,no
+359,5197,Visual Arts-Independent Study 05197,no
+360,5198,Visual Arts-Workplace Experience 05198,no
+361,5199,Visual Arts-Other 05199,no
+362,5201,Integrated Fine Arts 05201,no
+363,5995,Fine and Performing Art-Aide 05995,no
+364,5997,Fine and Performing Art-Independent Study 05997,no
+365,5998,Fine and Performing Art-Workplace Experience 05998,no
+366,5999,Fine and Performing Art-Other 05999,no
+367,6101,Spanish I 06101,no
+368,6102,Spanish II 06102,no
+369,6103,Spanish III 06103,no
+370,6104,Spanish IV 06104,no
+371,6105,Spanish V 06105,no
+372,6106,Spanish for Native Speakers 06106,no
+373,6107,Spanish Field Experience 06107,no
+374,6108,Spanish Conversation and Culture 06108,no
+375,6109,Spanish Literature 06109,no
+376,6110,IB Language A (non-English)-Spanish 06110,no
+377,6111,IB Language B-Spanish 06111,no
+378,6112,AP Spanish Language 06112,no
+379,6113,AP Spanish Literature 06113,no
+380,6121,French I 06121,no
+381,6122,French II 06122,no
+382,6123,French III 06123,no
+383,6124,French IV 06124,no
+384,6125,French V 06125,no
+385,6126,French for Native Speakers 06126,no
+386,6127,French Field Experience 06127,no
+387,6128,French Conversation and Culture 06128,no
+388,6129,French Literature 06129,no
+389,6130,IB Language A (non-English)-French 06130,no
+390,6131,IB Language B-French 06131,no
+391,6132,AP French Language 06132,no
+392,6133,AP French Literature 06133,no
+393,6141,Italian I 06141,no
+394,6142,Italian II 06142,no
+395,6143,Italian III 06143,no
+396,6144,Italian IV 06144,no
+397,6145,Italian V 06145,no
+398,6146,Italian for Native Speakers 06146,no
+399,6147,Italian Field Experience 06147,no
+400,6148,Italian Conversation and Culture 06148,no
+401,6149,Italian Literature 06149,no
+402,6150,IB Language A (non-English)-Italian 06150,no
+403,6151,IB Language B-Italian 06151,no
+404,6161,Portuguese I 06161,no
+405,6162,Portuguese II 06162,no
+406,6163,Portuguese III 06163,no
+407,6164,Portuguese IV 06164,no
+408,6165,Portuguese V 06165,no
+409,6166,Portuguese for Native Speakers 06166,no
+410,6167,Portuguese Field Experience 06167,no
+411,6168,Portuguese Conversation and Culture 06168,no
+412,6169,Portuguese Literature 06169,no
+413,6170,IB Language A (non-English)-Portuguese 06170,no
+414,6171,IB Language B-Portuguese 06171,no
+415,6181,Romance/Italic Language I 06181,no
+416,6182,Romance/Italic Language II 06182,no
+417,6183,Romance/Italic Language III 06183,no
+418,6184,Romance/Italic Language IV 06184,no
+419,6185,Romance/Italic Language V 06185,no
+420,6186,Romance/Italic Language for Native Speakers 06186,no
+421,6187,Romance/Italic Language Field Experience 06187,no
+422,6188,Romance/Italic Language Conversation and Culture 06188,no
+423,6189,Romance/Italic Literature 06189,no
+424,6190,IB Language A (non-English)-Romance/Italic Language 06190,no
+425,6191,IB Language B-Romance/Italic Language 06191,no
+426,6199,Romance/Italic Language-Other 06199,no
+427,6201,German I 06201,no
+428,6202,German II 06202,no
+429,6203,German III 06203,no
+430,6204,German IV 06204,no
+431,6205,German V 06205,no
+432,6206,German for Native Speakers 06206,no
+433,6207,German Field Experience 06207,no
+434,6208,German Conversation and Culture 06208,no
+435,6209,German Literature 06209,no
+436,6210,IB Language A (non-English)-German 06210,no
+437,6211,IB Language B-German 06211,no
+438,6212,AP German Language 06212,no
+439,6241,Germanic Language I 06241,no
+440,6242,Germanic Language II 06242,no
+441,6243,Germanic Language III 06243,no
+442,6244,Germanic Language IV 06244,no
+443,6245,Germanic Language V 06245,no
+444,6246,Germanic Language for Native Speakers 06246,no
+445,6247,Germanic Language Field Experience 06247,no
+446,6248,Germanic Language Conversation and Culture 06248,no
+447,6249,Germanic Literature 06249,no
+448,6250,IB Language A (non-English)-Germanic Language 06250,no
+449,6251,IB Language B-Germanic Language 06251,no
+450,6259,Germanic Language-Other 06259,no
+451,6261,Celtic Language I 06261,no
+452,6262,Celtic Language II 06262,no
+453,6263,Celtic Language III 06263,no
+454,6264,Celtic Language IV 06264,no
+455,6265,Celtic Language V 06265,no
+456,6266,Celtic Language for Native Speakers 06266,no
+457,6267,Celtic Language Field Experience 06267,no
+458,6268,Celtic Language Conversation and Culture 06268,no
+459,6269,Celtic Literature 06269,no
+460,6270,IB Language A (non-English)-Celtic Language 06270,no
+461,6271,IB Language B-Celtic Language 06271,no
+462,6279,Celtic Language-Other 06279,no
+463,6281,Greek I 06281,no
+464,6282,Greek II 06282,no
+465,6283,Greek III 06283,no
+466,6284,Greek IV 06284,no
+467,6285,Greek V 06285,no
+468,6286,Greek for Native Speakers 06286,no
+469,6287,Greek Field Experience 06287,no
+470,6288,Greek Conversation and Culture 06288,no
+471,6289,Greek Literature 06289,no
+472,6290,IB Language A (non-English)-Greek 06290,no
+473,6291,IB Language B-Greek 06291,no
+474,6299,Greek-Other 06299,no
+475,6301,Latin I 06301,no
+476,6302,Latin II 06302,no
+477,6303,Latin III 06303,no
+478,6304,Latin IV 06304,no
+479,6305,Latin V 06305,no
+480,6311,IB Classical Languages-Latin 06311,no
+481,6313,"AP Latin (Virgil, Catullus and Horace) 06313",no
+482,6321,Classical Greek I 06321,no
+483,6322,Classical Greek II 06322,no
+484,6323,Classical Greek III 06323,no
+485,6324,Classical Greek IV 06324,no
+486,6325,Classical Greek V 06325,no
+487,6331,IB Classical Languages-Greek 06331,no
+488,6359,Classical Languages-Other 06359,no
+489,6401,Chinese I 06401,no
+490,6402,Chinese II 06402,no
+491,6403,Chinese III 06403,no
+492,6404,Chinese IV 06404,no
+493,6405,Chinese V 06405,no
+494,6406,Chinese for Native Speakers 06406,no
+495,6407,Chinese Field Experience 06407,no
+496,6408,Chinese Conversation and Culture 06408,no
+497,6409,Chinese Literature 06409,no
+498,6410,IB Language A (non-English)-Chinese 06410,no
+499,6411,IB Language B-Chinese 06411,no
+500,6421,Japanese I 06421,no
+501,6422,Japanese II 06422,no
+502,6423,Japanese III 06423,no
+503,6424,Japanese IV 06424,no
+504,6425,Japanese V 06425,no
+505,6426,Japanese for Native Speakers 06426,no
+506,6427,Japanese Field Experience 06427,no
+507,6428,Japanese Conversation and Culture 06428,no
+508,6429,Japanese Literature 06429,no
+509,6430,IB Language A (non-English)-Japanese 06430,no
+510,6431,IB Language B-Japanese 06431,no
+511,6441,Korean I 06441,no
+512,6442,Korean II 06442,no
+513,6443,Korean III 06443,no
+514,6444,Korean IV 06444,no
+515,6445,Korean V 06445,no
+516,6446,Korean for Native Speakers 06446,no
+517,6447,Korean Field Experience 06447,no
+518,6448,Korean Conversation and Culture 06448,no
+519,6449,Korean Literature 06449,no
+520,6450,IB Language A (non-English)-Korean 06450,no
+521,6451,IB Language B-Korean 06451,no
+522,6481,East Asian Language I 06481,no
+523,6482,East Asian Language II 06482,no
+524,6483,East Asian Language III 06483,no
+525,6484,East Asian Language IV 06484,no
+526,6485,East Asian Language V 06485,no
+527,6486,East Asian Language for Native Speakers 06486,no
+528,6487,East Asian Language Field Experience 06487,no
+529,6488,East Asian Language Conversation and Culture 06488,no
+530,6489,East Asian Literature 06489,no
+531,6490,IB Language A (non-English)-East Asian Language 06490,no
+532,6491,IB Language B-East Asian Language 06491,no
+533,6499,East Asian Language-Other 06499,no
+534,6501,Vietnamese I 06501,no
+535,6502,Vietnamese II 06502,no
+536,6503,Vietnamese III 06503,no
+537,6504,Vietnamese IV 06504,no
+538,6505,Vietnamese V 06505,no
+539,6506,Vietnamese for Native Speakers 06506,no
+540,6507,Vietnamese Field Experience 06507,no
+541,6508,Vietnamese Conversation and Culture 06508,no
+542,6509,Vietnamese Literature 06509,no
+543,6510,IB Language A (non-English)-Vietnamese 06510,no
+544,6511,IB Language B-Vietnamese 06511,no
+545,6521,Filipino I 06521,no
+546,6522,Filipino II 06522,no
+547,6523,Filipino III 06523,no
+548,6524,Filipino IV 06524,no
+549,6525,Filipino V 06525,no
+550,6526,Filipino for Native Speakers 06526,no
+551,6527,Filipino Field Experience 06527,no
+552,6528,Filipino Conversation and Culture 06528,no
+553,6529,Filipino Literature 06529,no
+554,6530,IB Language A (non-English)-Filipino 06530,no
+555,6531,IB Language B-Filipino 06531,no
+556,6581,Southeast Asian Language I 06581,no
+557,6582,Southeast Asian Language II 06582,no
+558,6583,Southeast Asian Language III 06583,no
+559,6584,Southeast Asian Language IV 06584,no
+560,6585,Southeast Asian Language V 06585,no
+561,6586,Southeast Asian Language for Native Speakers 06586,no
+562,6587,Southeast Asian Language Field Experience 06587,no
+563,6588,Southeast Asian Language Conversation and Culture 06588,no
+564,6589,Southeast Asian Literature 06589,no
+565,6590,IB Language A (non-English)-Southeast Asian Language 06590,no
+566,6591,IB Language B-Southeast Asian Language 06591,no
+567,6599,Southeast Asian Language-Other 06599,no
+568,6601,Russian I 06601,no
+569,6602,Russian II 06602,no
+570,6603,Russian III 06603,no
+571,6604,Russian IV 06604,no
+572,6605,Russian V 06605,no
+573,6606,Russian for Native Speakers 06606,no
+574,6607,Russian Field Experience 06607,no
+575,6608,Russian Conversation and Culture 06608,no
+576,6609,Russian Literature 06609,no
+577,6610,IB Language A (non-English)-Russian 06610,no
+578,6611,IB Language-Russian 06611,no
+579,6641,Balto-Slavic Language I 06641,no
+580,6642,Balto-Slavic Language II 06642,no
+581,6643,Balto-Slavic Language III 06643,no
+582,6644,Balto-Slavic Language IV 06644,no
+583,6645,Balto-Slavic Language V 06645,no
+584,6646,Balto-Slavic Language for Native Speakers 06646,no
+585,6647,Balto-Slavic Language Field Experience 06647,no
+586,6648,Balto-Slavic Language Conversation and Culture 06648,no
+587,6649,Balto-Slavic Literature 06649,no
+588,6650,IB Language A (non-English)-Balto-Slavic Language 06650,no
+589,6651,IB Language B-Balto-Slavic Language 06651,no
+590,6659,Balto-Slavic Language-Other 06659,no
+591,6661,Turkic/Ural-Altaic Language I 06661,no
+592,6662,Turkic/Ural-Altaic Language II 06662,no
+593,6663,Turkic/Ural-Altaic Language III 06663,no
+594,6664,Turkic/Ural-Altaic Language IV 06664,no
+595,6665,Turkic/Ural-Altaic Language V 06665,no
+596,6666,Turkic/Ural-Altaic Language for Native Speakers 06666,no
+597,6667,Turkic/Ural-Altaic Language Field Experience 06667,no
+598,6668,Turkic/Ural-Altaic Language Conversation and Culture 06668,no
+599,6669,Turkic/Ural-Altaic Literature 06669,no
+600,6670,IB Language A (non-English)-Turkic/Ural-Altaic Language 06670,no
+601,6671,IB Language B-Turkic/Ural-Altaic Language 06671,no
+602,6679,Turkic/Ural-Altaic Language-Other 06679,no
+603,6681,Iranian/Persian Language I 06681,no
+604,6682,Iranian/Persian Language II 06682,no
+605,6683,Iranian/Persian Language III 06683,no
+606,6684,Iranian/Persian Language IV 06684,no
+607,6685,Iranian/Persian Language V 06685,no
+608,6686,Iranian/Persian Language for Native Speakers 06686,no
+609,6687,Iranian/Persian Language Field Experience 06687,no
+610,6688,Iranian/Persian Language Conversation and Culture 06688,no
+611,6689,Iranian/Persian Literature 06689,no
+612,6690,IB Language A (non-English)-Iranian/Persian Language 06690,no
+613,6691,IB Language B-Iranian/Persian Language 06691,no
+614,6699,Iranian/Persian Language-Other 06699,no
+615,6701,Hebrew I 06701,no
+616,6702,Hebrew II 06702,no
+617,6703,Hebrew III 06703,no
+618,6704,Hebrew IV 06704,no
+619,6705,Hebrew V 06705,no
+620,6706,Hebrew for Native Speakers 06706,no
+621,6707,Hebrew Field Experience 06707,no
+622,6708,Hebrew Conversation and Culture 06708,no
+623,6709,Hebrew Literature 06709,no
+624,6710,IB Language A (non-English)-Hebrew 06710,no
+625,6711,IB Language B-Hebrew 06711,no
+626,6712,IB Classical Languages-Hebrew 06712,no
+627,6721,Arabic I 06721,no
+628,6722,Arabic II 06722,no
+629,6723,Arabic III 06723,no
+630,6724,Arabic IV 06724,no
+631,6725,Arabic V 06725,no
+632,6726,Arabic for Native Speakers 06726,no
+633,6727,Arabic Field Experience 06727,no
+634,6728,Arabic Conversation and Culture 06728,no
+635,6729,Arabic Literature 06729,no
+636,6730,IB Language A (non-English)-Arabic 06730,no
+637,6731,IB Language B-Arabic 06731,no
+638,6732,IB Classical Languages-Arabic 06732,no
+639,6759,Semitic and Near/Middle Eastern Languages-Other 06759,no
+640,6761,Swahili I 06761,no
+641,6762,Swahili II 06762,no
+642,6763,Swahili III 06763,no
+643,6764,Swahili IV 06764,no
+644,6765,Swahili V 06765,no
+645,6766,Swahili for Native Speakers 06766,no
+646,6767,Swahili Field Experience 06767,no
+647,6768,Swahili Conversation and Culture 06768,no
+648,6769,Swahili Literature 06769,no
+649,6770,IB Language A (non-English)-Swahili 06770,no
+650,6771,IB Language B-Swahili 06771,no
+651,6781,Non-Semitic African Language I 06781,no
+652,6782,Non-Semitic African Language II 06782,no
+653,6783,Non-Semitic African Language III 06783,no
+654,6784,Non-Semitic African Language IV 06784,no
+655,6785,Non-Semitic African Language V 06785,no
+656,6786,Non-Semitic African Language for Native Speakers 06786,no
+657,6787,Non-Semitic African Language Field Experience 06787,no
+658,6788,Non-Semitic African Language Conversation and Culture 06788,no
+659,6789,Non-Semitic African Literature 06789,no
+660,6790,IB Language A (non-English)-Non-Semitic African Language 06790,no
+661,6791,IB Language B-Non-Semitic African Language 06791,no
+662,6799,Non-Semitic African Language-Other 06799,no
+663,6801,American Sign Language I 06801,no
+664,6802,American Sign Language II 06802,no
+665,6803,American Sign Language III 06803,no
+666,6804,American Sign Language IV 06804,no
+667,6805,American Sign Language V 06805,no
+668,6819,American Sign Language-Other 06819,no
+669,6821,American Indian Language I 06821,no
+670,6822,American Indian Language II 06822,no
+671,6823,American Indian Language III 06823,no
+672,6824,American Indian Language IV 06824,no
+673,6825,American Indian Language V 06825,no
+674,6826,American Indian Language for Native Speakers 06826,no
+675,6827,American Indian Language Field Experience 06827,no
+676,6828,American Indian Language Conversation and Culture 06828,no
+677,6829,American Indian Literature 06829,no
+678,6830,IB Language A (non-English)-American Indian Language 06830,no
+679,6831,IB Language B-American Indian Language 06831,no
+680,6839,American Indian Language-Other 06839,no
+681,6841,Indic Language I 06841,no
+682,6842,Indic Language II 06842,no
+683,6843,Indic Language III 06843,no
+684,6844,Indic Language IV 06844,no
+685,6845,Indic Language V 06845,no
+686,6846,Indic Language for Native Speakers 06846,no
+687,6847,Indic Language Field Experience 06847,no
+688,6848,Indic Language Conversation and Culture 06848,no
+689,6849,Indic Literature 06849,no
+690,6850,IB Language A (non-English)-Indic Language 06850,no
+691,6851,IB Language B-Indic Language 06851,no
+692,6859,Indic Language-Other 06859,no
+693,6861,Malayo-Polynesian Language I 06861,no
+694,6862,Malayo-Polynesian Language II 06862,no
+695,6863,Malayo-Polynesian Language III 06863,no
+696,6864,Malayo-Polynesian Language IV 06864,no
+697,6865,Malayo-Polynesian Language V 06865,no
+698,6866,Malayo-Polynesian Language for Native Speakers 06866,no
+699,6867,Malayo-Polynesian Language Field Experience 06867,no
+700,6868,Malayo-Polynesian Language Conversation and Culture 06868,no
+701,6869,Malayo-Polynesian Literature 06869,no
+702,6870,IB Language A (non-English)-Malayo-Polynesian Language 06870,no
+703,6871,IB Language B-Malayo-Polynesian Language 06871,no
+704,6879,Malayo-Polynesian Language-Other 06879,no
+705,6995,Foreign Language and Literature-Aide 06995,no
+706,6997,Foreign Language and Literature-Independent Study 06997,no
+707,6998,Foreign Language and Literature-Workplace Experience 06998,no
+708,6999,Foreign Language and Literature-Other 06999,no
+709,7001,Religious Foundations 07001,no
+710,7002,Comparative Religion 07002,no
+711,7003,Eastern Religions 07003,no
+712,7004,Western Religions 07004,no
+713,7005,Scriptures 07005,no
+714,7006,Old Testament 07006,no
+715,7007,New Testament 07007,no
+716,7008,Bible History 07008,no
+717,7009,Christology 07009,no
+718,7010,Religious Figures 07010,no
+719,7011,Liturgy and Prayer 07011,no
+720,7012,Prayer and Spirituality 07012,no
+721,7013,Religious Ethics and Morality 07013,no
+722,7014,"Justice, Peace, and Faith 07014",no
+723,7015,Faith and Lifestyle 07015,no
+724,7016,Ministry 07016,no
+725,7995,Religious Education and Theology-Aide 07995,no
+726,7997,Religious Education and Theology-Independent Study 07997,no
+727,7998,Religious Education and Theology-Workplace Experience 07998,no
+728,7999,Religious Education and Theology-Other 07999,no
+729,8001,Physical Education 08001,no
+730,8002,Team Sports 08002,no
+731,8003,Individual/Dual Sports 08003,no
+732,8004,Recreation Sports 08004,no
+733,8005,Fitness/Conditioning Activities 08005,no
+734,8006,Corps Movement 08006,no
+735,8007,Adapted Physical Education 08007,no
+736,8008,Gymnastics 08008,no
+737,8009,Weight Training 08009,no
+738,8010,Aquatics/Water Sports 08010,no
+739,8011,Tennis 08011,no
+740,8012,Self-defense 08012,no
+741,8013,Specific Sports Activities 08013,no
+742,8014,Physical Education Equivalent 08014,no
+743,8015,Off-Campus Sports 08015,no
+744,8016,Lifetime Fitness Education 08016,no
+745,8017,Sports Physiology 08017,no
+746,8047,Physical Education-Independent Study 08047,no
+747,8048,Physical Education-Workplace Experience 08048,no
+748,8049,Physical Education-Other 08049,no
+749,8051,Health Education 08051,no
+750,8052,Health and Fitness 08052,no
+751,8053,Community Health 08053,no
+752,8054,Special Needs Health Education 08054,no
+753,8055,Safety and First Aid 08055,no
+754,8056,Health for Parenting Teens 08056,no
+755,8057,Health and Life Management 08057,no
+756,8058,Substance Abuse Prevention 08058,no
+757,8097,Health Education-Independent Study 08097,no
+758,8098,Health Education-Workplace Experience 08098,no
+759,8099,Health Education-Other 08099,no
+760,8151,Drivers' Education-Classroom Only 08151,no
+761,8152,Drivers' Education-Classroom and Laboratory 08152,no
+762,8197,Drivers' Education-Independent Study 08197,no
+763,8198,Drivers' Education-Workplace Experience 08198,no
+764,8199,Drivers' Education-Other 08199,no
+765,8201,Physical Education/Health/Drivers' Education 08201,no
+766,8995,"Physical, Health, and Safety Education-Aide 08995",no
+767,8997,"Physical, Health, and Safety Education-Independent Study 08997",no
+768,8998,"Physical, Health, and Safety Education-Workplace Experience 08998",no
+769,8999,"Physical, Health, and Safety Education-Other 08999",no
+770,9001,Introduction to Jr. ROTC 09001,no
+771,9002,Military Jr. ROTC-unspecified branch 09002,no
+772,9003,ROTC Drill 09003,no
+773,9004,Military Leadership 09004,no
+774,9051,Army Junior ROTC I 09051,no
+775,9052,Army Junior ROTC II 09052,no
+776,9053,Army Junior ROTC III 09053,no
+777,9054,Army Junior ROTC IV 09054,no
+778,9101,Naval Junior ROTC I 09101,no
+779,9102,Naval Junior ROTC II 09102,no
+780,9103,Naval Junior ROTC III 09103,no
+781,9104,Naval Junior ROTC IV 09104,no
+782,9151,Air Force Junior ROTC I 09151,no
+783,9152,Air Force Junior ROTC II 09152,no
+784,9153,Air Force Junior ROTC III 09153,no
+785,9154,Air Force Junior ROTC IV 09154,no
+786,9201,Marine Corps Junior ROTC I 09201,no
+787,9202,Marine Corps Junior ROTC II 09202,no
+788,9203,Marine Corps Junior ROTC III 09203,no
+789,9204,Marine Corps Junior ROTC IV 09204,no
+790,9995,Military Science-Aide 09995,no
+791,9997,Military Science-Independent Study 09997,no
+792,9998,Military Science-Workplace Experience 09998,no
+793,9999,Military Science-Other 09999,no
+794,10001,Introduction to Computers 10001,no
+795,10002,Computing Systems 10002,no
+796,10003,Computer and Information Technology 10003,no
+797,10004,Computer Applications 10004,no
+798,10005,Business Computer Applications 10005,no
+799,10006,Telecommunications 10006,no
+800,10007,IB Information Technology in a Global Society 10007,no
+801,10008,Particular Topics in Computer Literacy 10008,no
+802,10047,Computer Literacy-Independent Study 10047,no
+803,10048,Computer Literacy-Workplace Experience 10048,no
+804,10049,Computer Literacy-Other 10049,no
+805,10051,Information Management 10051,no
+806,10052,Database Management and Data Warehousing 10052,yes
+807,10053,Database Applications 10053,yes
+808,10054,Data Systems/Processing 10054,yes
+809,10055,Particular Topics in Management Information Systems 10055,no
+810,10097,Management Information Systems-Independent Study 10097,yes
+811,10098,Management Information Systems-Workplace Experience 10098,yes
+812,10099,Management Information Systems-Other 10099,yes
+813,10101,Network Technology 10101,yes
+814,10102,Networking Systems 10102,yes
+815,10103,Area Network Design and Protocols 10103,no
+816,10104,Router Basics 10104,no
+817,10105,NetWare Routing 10105,no
+818,10106,Wide Area Telecommunications and Networking 10106,no
+819,10107,Wireless Networks 10107,no
+820,10108,Network Security 10108,yes
+821,10109,Essentials of Network Operating Systems 10109,yes
+822,10110,Microsoft Certified Professional (MCP) 10110,no
+823,10111,Particular Topics in Networking Systems 10111,no
+824,10147,Networking Systems-Independent Study 10147,no
+825,10148,Networking Systems-Workplace Experience 10148,yes
+826,10149,Networking Systems-Other 10149,yes
+827,10151,Business Programming 10151,no
+828,10152,Computer Programming 10152,yes
+829,10153,Visual Basic (VB) Programming 10153,yes
+830,10154,C++ Programming 10154,yes
+831,10155,Java Programming 10155,yes
+832,10156,Computer Programming-Other Language 10156,yes
+833,10157,AP Computer Science A 10157,yes
+834,10158,AP Computer Science AB 10158,no
+835,10159,IB Computing Studies 10159,yes
+836,10160,Particular Topics in Computer Programming 10160,yes
+837,10197,Computer Programming-Independent Study 10197,yes
+838,10198,Computer Programming-Workplace Experience 10198,yes
+839,10199,Computer Programming-Other 10199,yes
+840,10201,Web Page Design 10201,yes
+841,10202,Computer Graphics 10202,no
+842,10203,Interactive Media 10203,yes
+843,10204,Particular Topics in Media Technology 10204,no
+844,10247,Media Technology-Independent Study 10247,no
+845,10248,Media Technology-Workplace Experience 10248,no
+846,10249,Media Technology-Other 10249,no
+847,10251,Computer Technology 10251,yes
+848,10252,Computer Maintenance 10252,no
+849,10253,Information Support and Services 10253,yes
+850,10254,IT Essentials: PC Hardware and Software 10254,yes
+851,10255,CISCO-The Panduit Network Infrastructure Essentials (PNIE) 10255,no
+852,10256,Particular Topics in Information Support and Services 10256,no
+853,10297,Information Support and Services-Independent Study 10297,yes
+854,10298,Information Support and Services-Workplace Experience 10298,yes
+855,10299,Information Support and Services-Other 10299,no
+856,10995,Computer and Information Sciences-Aide 10995,no
+857,10997,Computer and Information Sciences-Independent Study 10997,no
+858,10998,Computer and Information Sciences-Workplace Experience 10998,no
+859,10999,Computer and Information Sciences-Other 10999,no
+860,11001,Introduction to Communication 11001,no
+861,11002,Communication Technology 11002,no
+862,11003,Particular Topics in Communication 11003,no
+863,11047,Communication-Independent Study 11047,no
+864,11048,Communication-Workplace Experience 11048,no
+865,11049,Communication-Other 11049,no
+866,11051,Audio/Visual Production 11051,no
+867,11052,Commercial Photography 11052,no
+868,11053,Photographic Laboratory and Darkroom 11053,no
+869,11054,Photo Imaging 11054,no
+870,11055,Video 11055,no
+871,11056,Particular Topics in Audio/Video Technology and Film 11056,no
+872,11097,Audio/Video Technology and Film-Independent Study 11097,no
+873,11098,Audio/Video Technology and Film-Workplace Experience 11098,no
+874,11099,Audio/Video Technology and Film-Other 11099,no
+875,11101,Journalism 11101,no
+876,11102,Photojournalism 11102,no
+877,11103,Broadcasting Technology 11103,no
+878,11104,Publication Production 11104,no
+879,11105,Particular Topics in Journalism and Broadcasting 11105,no
+880,11147,Journalism and Broadcasting-Independent Study 11147,no
+881,11148,Journalism and Broadcasting-Workplace Experience 11148,no
+882,11149,Journalism and Broadcasting-Other 11149,no
+883,11151,Digital Media Technology 11151,no
+884,11152,Desktop Publishing 11152,no
+885,11153,Digital Media Design and Production 11153,no
+886,11154,Commercial Graphic Design 11154,no
+887,11155,Graphic Technology 11155,no
+888,11156,Photography and Printing Technology 11156,no
+889,11157,Photoengraving 11157,no
+890,11158,Print Press Operations 11158,no
+891,11159,Particular Topics in Printing Technology and Production 11159,no
+892,11197,Printing Technology-Independent Study 11197,no
+893,11198,Printing Technology-Workplace Experience 11198,no
+894,11199,Printing Technology-Other 11199,no
+895,11995,Communication and Audio/Video Technology-Aide 11995,no
+896,11997,Communication and Audio/Video Technology-Independent Study 11997,no
+897,11998,Communication and Audio/Video Technology-Workplace Experience 11998,no
+898,11999,Communication and Audio/Video Technology-Other 11999,no
+899,12001,Business/Office Career Exploration 12001,no
+900,12002,Office Procedures-Comprehensive 12002,no
+901,12003,Office and Administrative Technologies 12003,no
+902,12004,Office Services 12004,no
+903,12005,Keyboarding 12005,no
+904,12006,Word Processing 12006,no
+905,12007,Recordkeeping 12007,no
+906,12008,Particular Topics in Administration 12008,no
+907,12009,Business Communications 12009,no
+908,12047,Administration-Independent Study 12047,no
+909,12048,Administration-Workplace Experience 12048,no
+910,12049,Administration-Other 12049,no
+911,12051,Introductory Business 12051,no
+912,12052,Business Management 12052,no
+913,12053,Entrepreneurship 12053,no
+914,12054,Business Law 12054,no
+915,12055,Business Principles and Management 12055,no
+916,12056,International Business and Marketing 12056,no
+917,12057,Human Resources and Labor Relations 12057,no
+918,12058,Human Resources Management 12058,no
+919,12059,IB Business and Management 12059,no
+920,12097,Management-Independent Study 12097,no
+921,12098,Management-Workplace Experience 12098,no
+922,12099,Management-Other 12099,no
+923,12101,Banking and Finance 12101,no
+924,12102,Banking 12102,no
+925,12103,Finance 12103,no
+926,12104,Accounting 12104,no
+927,12105,Business Economics 12105,no
+928,12106,Risk Management and Insurance 12106,no
+929,12107,Investing 12107,no
+930,12147,Finance-Independent Study 12147,no
+931,12148,Finance-Workplace Experience 12148,no
+932,12149,Finance-Other 12149,no
+933,12151,Marketing Career Exploration 12151,no
+934,12152,Marketing-Comprehensive 12152,no
+935,12153,Marketing-Fashion 12153,no
+936,12154,Marketing-Real Estate 12154,no
+937,12155,Marketing-Transportation 12155,no
+938,12156,Marketing-Food/Beverage Industry 12156,no
+939,12157,Marketing-Insurance 12157,no
+940,12158,Marketing-Floristry 12158,no
+941,12159,Marketing-Hospitality/Tourism 12159,no
+942,12160,Marketing-Merchandising 12160,no
+943,12161,Retail Marketing 12161,no
+944,12162,Internet Marketing 12162,no
+945,12163,Sports and Entertainment Marketing 12163,no
+946,12164,Principles of Marketing 12164,no
+947,12165,Principles of Advertising 12165,no
+948,12166,Marketing Management 12166,no
+949,12167,Marketing-Other Specialization 12167,no
+950,12197,Marketing-Independent Study 12197,no
+951,12198,Marketing-Workplace Experience 12198,no
+952,12199,Marketing-Other 12199,no
+953,12201,Cashier/Checker Operations 12201,no
+954,12202,Principles of Selling 12202,no
+955,12247,Sales-Independent Study 12247,no
+956,12248,Sales-Workplace Experience 12248,no
+957,12249,Sales-Other 12249,no
+958,12995,Business and Marketing-Aide 12995,no
+959,12997,Business and Marketing-Independent Study 12997,no
+960,12998,Business and Marketing-Workplace Experience 12998,no
+961,12999,Business and Marketing-Other 12999,no
+962,13001,Exploration of Manufacturing Occupations 13001,no
+963,13002,Manufacturing-Comprehensive 13002,no
+964,13003,Industrial Arts 13003,no
+965,13004,Industrial Safety/First Aid 13004,no
+966,13052,Material and Processes 13052,no
+967,13053,Metal and Wood Processing/Production 13053,no
+968,13054,Wood Processing/Production 13054,no
+969,13055,Metal Processing/Production 13055,no
+970,13056,Plastics Processing/Production 13056,no
+971,13057,Ceramic Processing/Production 13057,no
+972,13058,Particular Topics in Processing and Production 13058,no
+973,13097,Processing/Production-Independent Study 13097,no
+974,13098,Processing/Production-Workplace Experience 13098,no
+975,13099,Processing/Production-Other 13099,no
+976,13101,Production Systems 13101,no
+977,13102,Electro-Mechanical Systems 13102,no
+978,13103,Product Development 13103,no
+979,13147,Production Systems-Independent Study 13147,no
+980,13148,Production Systems-Workplace Experience 13148,no
+981,13149,Production Systems-Other 13149,no
+982,13201,Metalwork Occupations 13201,no
+983,13202,Metalworking 13202,no
+984,13203,Machining 13203,no
+985,13204,Particular Topics in Machining 13204,no
+986,13205,Sheet Metal 13205,no
+987,13206,Particular Topics in Sheet Metal 13206,no
+988,13207,Welding 13207,no
+989,13208,Particular Topics in Welding 13208,no
+990,13209,Particular Topics in Metalwork 13209,no
+991,13247,Metalwork-Independent Study 13247,no
+992,13248,Metalwork-Workplace Experience 13248,no
+993,13249,Metalwork-Other 13249,no
+994,13301,Appliance Repair 13301,no
+995,13302,Equipment Maintenance and Repair 13302,no
+996,13347,Repair-Independent Study 13347,no
+997,13348,Repair-Workplace Experience 13348,no
+998,13349,Repair-Other 13349,no
+999,13995,Manufacturing-Aide 13995,no
+1000,13997,Manufacturing-Independent Study 13997,no
+1001,13998,Manufacturing-Workplace Experience 13998,no
+1002,13999,Manufacturing-Other 13999,no
+1003,14001,Exploration of Health Care Occupations 14001,no
+1004,14002,Health Care Occupations-Comprehensive 14002,no
+1005,14051,Nursing 14051,no
+1006,14052,Nursing-LPN 14052,no
+1007,14053,Home Health Care 14053,no
+1008,14054,Dental Science 14054,no
+1009,14055,Emergency Medical Technology 14055,no
+1010,14056,Surgical Technology 14056,no
+1011,14057,Vision Care 14057,no
+1012,14058,Optometrics 14058,no
+1013,14059,Gerontology 14059,no
+1014,14060,Physical Therapy 14060,no
+1015,14061,Respiratory Therapy 14061,no
+1016,14062,Care of Athletes 14062,no
+1017,14063,Particular Topics in Therapeutic Services 14063,no
+1018,14097,Therapeutic Services-Independent Study 14097,no
+1019,14098,Therapeutic Services-Workplace Experience 14098,no
+1020,14099,Therapeutic Services-Other 14099,no
+1021,14101,Dental Laboratory Technology 14101,no
+1022,14102,Medical Lab Technology 14102,no
+1023,14103,EKG Technology 14103,no
+1024,14104,Phlebotomy 14104,no
+1025,14105,Particular Topics in Diagnostic Services 14105,no
+1026,14147,Diagnostic Services-Independent Study 14147,no
+1027,14148,Diagnostic Services-Workplace Experience 14148,no
+1028,14149,Diagnostic Services-Other 14149,no
+1029,14151,Medical/Clerical Assisting 14151,no
+1030,14152,Pharmacy Assisting 14152,no
+1031,14153,Medical Office Procedures 14153,no
+1032,14154,Medical Terminology 14154,no
+1033,14155,Particular Topics in Health Information 14155,no
+1034,14197,Health Information-Independent Study 14197,no
+1035,14198,Health Information-Workplace Experience 14198,no
+1036,14199,Health Information-Other 14199,no
+1037,14201,Central Service Technology 14201,no
+1038,14202,Health Support Services 14202,no
+1039,14203,Health Unit Coordination 14203,no
+1040,14204,Particular Topics in Support Services 14204,no
+1041,14247,Health Support Services-Independent Study 14247,no
+1042,14248,Health Support Services-Workplace Experience 14248,no
+1043,14249,Health Support Services-Other 14249,no
+1044,14251,Health Science 14251,no
+1045,14252,Biotechnology 14252,no
+1046,14253,Pharmacology 14253,no
+1047,14254,Particular Topics in Health Sciences 14254,no
+1048,14297,Health Sciences-Independent Study 14297,no
+1049,14298,Health Sciences-Workplace Experience 14298,no
+1050,14299,Health Sciences-Other 14299,no
+1051,14995,Health Care Sciences-Aide 14995,no
+1052,14997,Health Care Sciences-Independent Study 14997,no
+1053,14998,Health Care Sciences-Workplace Experience 14998,no
+1054,14999,Health Care Sciences-Other 14999,no
+1055,15001,Exploration of Public Service Careers 15001,no
+1056,15051,Criminal Justice 15051,no
+1057,15052,Corrections 15052,no
+1058,15053,Particular Topics in Law Enforcement 15053,no
+1059,15097,Law Enforcement-Independent Study 15097,no
+1060,15098,Law Enforcement-Workplace Experience 15098,no
+1061,15099,Law Enforcement-Other 15099,no
+1062,15101,Public Safety 15101,no
+1063,15102,Security Services 15102,no
+1064,15103,Particular Topics in Security 15103,no
+1065,15147,Security and Protection-Independent Study 15147,no
+1066,15148,Security and Protection-Workplace Experience 15148,no
+1067,15149,Security and Protection-Other 15149,no
+1068,15151,Fire Science 15151,no
+1069,15152,Fire Fighting 15152,no
+1070,15153,Particular Topics in Fire Management 15153,no
+1071,15197,Fire Management-Independent Study 15197,no
+1072,15198,Fire Management-Workplace Experience 15198,no
+1073,15199,Fire Management-Other 15199,no
+1074,15201,Public Administration 15201,no
+1075,15202,Community Protection 15202,no
+1076,15203,Public Policy 15203,no
+1077,15247,Government Service-Independent Study 15247,no
+1078,15248,Government Service-Workplace Experience 15248,no
+1079,15249,Government Service-Other 15249,no
+1080,15995,"Public, Protective, and Government Service-Aide 15995",no
+1081,15997,"Public, Protective, and Government Service-Independent Study 15997",no
+1082,15998,"Public, Protective, and Government Service-Workplace Experience 15998",no
+1083,15999,"Public, Protective, and Government Service-Other 15999",no
+1084,16001,Exploration of Hospitality Careers 16001,no
+1085,16051,"Exploration of Restaurant, Food and Beverage Services 16051",no
+1086,16052,"Restaurant, Food and Beverage Services-Comprehensive 16052",no
+1087,16053,Food Service 16053,no
+1088,16054,Nutrition and Food Preparation 16054,no
+1089,16055,Restaurant Management and Operations 16055,no
+1090,16056,Culinary Art Specialty 16056,no
+1091,16057,"Particular Topics in Restaurant, Food and Beverage Services 16057",no
+1092,16097,"Restaurant, Food and Beverage Services-Independent Study 16097",no
+1093,16098,"Restaurant, Food and Beverage Services-Workplace Experience 16098",no
+1094,16099,"Restaurant, Food and Beverage Services-Other 16099",no
+1095,16101,Exploration of Lodging Careers 16101,no
+1096,16102,Lodging-Comprehensive 16102,no
+1097,16103,Institutional Maintenance 16103,no
+1098,16104,Particular Topics in Lodging 16104,no
+1099,16147,Lodging-Independent Study 16147,no
+1100,16148,Lodging-Workplace Experience 16148,no
+1101,16149,Lodging-Other 16149,no
+1102,16151,Introduction to Travel and Tourism 16151,no
+1103,16152,Travel and Tourism-Comprehensive 16152,no
+1104,16153,World Travel and Tourism 16153,no
+1105,16154,Eco-tourism 16154,no
+1106,16155,Particular Topics in Travel and Tourism 16155,no
+1107,16197,Travel and Tourism-Independent Study 16197,no
+1108,16198,Travel and Tourism-Workplace Experience 16198,no
+1109,16199,Travel and Tourism-Other 16199,no
+1110,16201,"Exploration of Recreation, Amusement and Attractions 16201",no
+1111,16202,"Recreation, Amusement and Attractions-Comprehensive 16202",no
+1112,16203,"Particular Topics in Recreation, Amusement and Attractions 16203",no
+1113,16247,"Recreation, Amusement and Attractions-Independent Study 16247",no
+1114,16248,"Recreation, Amusement and Attractions-Workplace Experience 16248",no
+1115,16249,"Recreation, Amusement and Attractions-Other 16249",no
+1116,16995,Hospitality and Tourism-Aide 16995,no
+1117,16997,Hospitality and Tourism-Independent Study 16997,no
+1118,16998,Hospitality and Tourism-Workplace Experience 16998,no
+1119,16999,Hospitality and Tourism-Other 16999,no
+1120,17001,Construction Careers Exploration 17001,no
+1121,17002,Construction-Comprehensive 17002,no
+1122,17003,Carpentry 17003,no
+1123,17004,Framing Carpentry 17004,no
+1124,17005,Particular Topics in Carpentry 17005,no
+1125,17006,Woodworking 17006,no
+1126,17007,Cabinetmaking 17007,no
+1127,17008,Masonry 17008,no
+1128,17009,Building Maintenance 17009,no
+1129,17010,Home Maintenance 17010,no
+1130,17011,Wall Finishings 17011,no
+1131,17012,Upholstering 17012,no
+1132,17047,General Construction-Independent Study 17047,no
+1133,17048,General Construction-Workplace Experience 17048,no
+1134,17049,General Construction-Other 17049,no
+1135,17051,Air Conditioning 17051,no
+1136,17052,Refrigeration 17052,no
+1137,17053,Heating 17053,no
+1138,17054,Air Conditioning/Refrigeration 17054,no
+1139,17055,"Air Conditioning, Heating, and Refrigeration 17055",no
+1140,17056,"Heating, Ventilation, and Air Conditioning 17056",no
+1141,17057,Particular Topics in HVACR 17057,no
+1142,17058,Plumbing 17058,no
+1143,17059,Plumbing and Heating 17059,no
+1144,17097,"Air Conditioning, Heating and Plumbing-Independent Study 17097",no
+1145,17098,"Air Conditioning, Heating and Plumbing-Workplace Experience 17098",no
+1146,17099,"Air Conditioning, Heating and Plumbing-Other 17099",no
+1147,17101,Exploration of Electricity/Electronics 17101,no
+1148,17102,Electricity-Comprehensive 17102,no
+1149,17103,Residential Wiring 17103,no
+1150,17104,Industrial Electricity 17104,no
+1151,17105,Particular Topics in Electricity 17105,no
+1152,17106,Electronics-Comprehensive 17106,no
+1153,17107,Particular Topics in Electronics 17107,no
+1154,17108,Electricity/Electronics-General 17108,no
+1155,17109,Particular Topics in Electricity/Electronics 17109,no
+1156,17110,Analog and Digital Circuits 17110,no
+1157,17111,Analog Circuits 17111,no
+1158,17112,Digital Circuits 17112,no
+1159,17147,Electricity/Electronics-Independent Study 17147,no
+1160,17148,Electricity/Electronics-Workplace Experience 17148,no
+1161,17149,Electricity/Electronics-Other 17149,no
+1162,17995,Architecture and Construction-Aide 17995,no
+1163,17997,Architecture and Construction-Independent study 17997,no
+1164,17998,Architecture and Construction-Workplace Experience 17998,no
+1165,17999,Architecture and Construction-Other 17999,no
+1166,18001,Introduction to Agriculture and Natural Resources 18001,no
+1167,18002,Agriculture-Comprehensive 18002,no
+1168,18003,Agriculture and Natural Resources-Comprehensive 18003,no
+1169,18051,Plant Production/Science 18051,no
+1170,18052,General Horticulture 18052,no
+1171,18053,Ornamental Horticulture 18053,no
+1172,18054,Turf and Landscape Management 18054,no
+1173,18055,Soil Science 18055,no
+1174,18056,Particular Topics in Plant Systems 18056,no
+1175,18097,Plant Systems-Independent Study 18097,no
+1176,18098,Plant Systems-Workplace Experience 18098,no
+1177,18099,Plant Systems-Other 18099,no
+1178,18101,Animal Production/Science 18101,no
+1179,18102,Small Animal Care 18102,no
+1180,18103,Large Animal Care 18103,no
+1181,18104,Equine Science 18104,no
+1182,18105,Veterinary Science 18105,no
+1183,18106,Particular Topics in Animal Systems 18106,no
+1184,18147,Animal Systems-Independent Study 18147,no
+1185,18148,Animal Systems-Workplace Experience 18148,no
+1186,18149,Animal Systems-Other 18149,no
+1187,18201,Agribusiness Management 18201,no
+1188,18202,Agricultural Entrepreneurship 18202,no
+1189,18203,Agricultural Leadership 18203,no
+1190,18204,Particular Topics in Agribusiness 18204,no
+1191,18247,Agribusiness-Independent Study 18247,no
+1192,18248,Agribusiness-Workplace Experience 18248,no
+1193,18249,Agribusiness-Other 18249,no
+1194,18301,Agricultural Production 18301,no
+1195,18302,Agricultural Processing 18302,no
+1196,18303,Plant Processing 18303,no
+1197,18304,Animal Processing 18304,no
+1198,18305,Food Product Processing 18305,no
+1199,18306,Aquaculture 18306,no
+1200,18307,Agriculture and Society 18307,no
+1201,18308,Agricultural Biotechnology 18308,no
+1202,18309,Particular Topics in Agricultural Production/Processing 18309,no
+1203,18347,Agricultural Production and Processing-Independent Study 18347,no
+1204,18348,Agricultural Production and Processing-Workplace Experience 18348,no
+1205,18349,Agricultural Production and Processing-Other 18349,no
+1206,18401,Agriculture Mechanics/Equipment/Structures 18401,no
+1207,18402,Agriculture Mechanics and Equipment 18402,no
+1208,18403,Agriculture Structures 18403,no
+1209,18404,Agriculture Welding 18404,no
+1210,18405,Particular Topics in Agricultural Mechanics and Construction 18405,no
+1211,18447,Agricultural Mechanics and Construction-Independent Study 18447,no
+1212,18448,Agricultural Mechanics and Construction-Workplace Experience 18448,no
+1213,18449,Agricultural Mechanics and Construction-Other 18449,no
+1214,18501,Wildlife Management 18501,no
+1215,18502,Forestry 18502,no
+1216,18503,Forestry Harvesting 18503,no
+1217,18504,Natural Resources Management 18504,no
+1218,18505,Particular Topics in Natural Resources 18505,no
+1219,18547,Natural Resources-Independent Study 18547,no
+1220,18548,Natural Resources-Workplace Experience 18548,no
+1221,18549,Natural Resources-Other 18549,no
+1222,18995,"Agriculture, Food, and Natural Resources-Aide 18995",no
+1223,18997,"Agriculture, Food, and Natural Resources-Independent Study 18997",no
+1224,18998,"Agriculture, Food, and Natural Resources-Workplace Experience 18998",no
+1225,18999,"Agriculture, Food, and Natural Resources-Other 18999",no
+1226,19001,Human Services Career Exploration 19001,no
+1227,19051,Child Care 19051,no
+1228,19052,Child Development 19052,no
+1229,19053,Elder Care 19053,no
+1230,19054,Caregiving Service 19054,no
+1231,19055,Particular Topics in Child and Elder Care 19055,no
+1232,19097,Child and Elder Care-Independent Study 19097,no
+1233,19098,Child and Elder Care-Workplace Experience 19098,no
+1234,19099,Child and Elder Care-Other 19099,no
+1235,19101,Cosmetology-Licensing 19101,no
+1236,19102,Barbering 19102,no
+1237,19103,Hair Styling 19103,no
+1238,19104,Cosmetology-Non-licensing 19104,no
+1239,19105,Cosmetology-Nail Specialization 19105,no
+1240,19106,Cosmetology-Facial Specialization 19106,no
+1241,19107,Particular Topics in Cosmetology 19107,no
+1242,19147,Cosmetology-Independent Study 19147,no
+1243,19148,Cosmetology-Workplace Experience 19148,no
+1244,19149,Cosmetology-Other 19149,no
+1245,19151,Teaching Profession 19151,no
+1246,19152,Educational Methodology 19152,no
+1247,19153,Early Childhood Education 19153,no
+1248,19154,Particular Topics in Education 19154,no
+1249,19197,Education-Independent Study 19197,no
+1250,19198,Education-Workplace Experience 19198,no
+1251,19199,Education-Other 19199,no
+1252,19201,Clothing and Textiles 19201,no
+1253,19202,Clothing/Textile Maintenance 19202,no
+1254,19203,Apparel Construction 19203,no
+1255,19204,Apparel and Textile Services 19204,no
+1256,19205,Home Furnishing 19205,no
+1257,19206,Home Furnishings Production 19206,no
+1258,19207,Particular Topics in Apparel and Furnishings 19207,no
+1259,19247,Apparel and Furnishings-Independent Study 19247,no
+1260,19248,Apparel and Furnishings-Workplace Experience 19248,no
+1261,19249,Apparel and Furnishings-Other 19249,no
+1262,19995,Human Services-Aide 19995,no
+1263,19997,Human Services-Independent Study 19997,no
+1264,19998,Human Services-Workplace Experience 19998,no
+1265,19999,Human Services-Other 19999,no
+1266,20001,"Exploration of Transportation, Distribution and Logistics 20001",no
+1267,20051,Truck and Bus Driving 20051,no
+1268,20052,Heavy Equipment Operation 20052,no
+1269,20053,Aviation 20053,no
+1270,20054,Boat Operation 20054,no
+1271,20097,Operation-Independent Study 20097,no
+1272,20098,Operation-Workplace Experience 20098,no
+1273,20099,Operation-Other 20099,no
+1274,20101,Energy/Power 20101,no
+1275,20102,Power and Mechanics 20102,no
+1276,20103,Introduction to Automobiles 20103,no
+1277,20104,Automotive Mechanics-Comprehensive 20104,no
+1278,20105,Particular Topics in Automotive Mechanics 20105,no
+1279,20106,Automotive Service 20106,no
+1280,20107,Diesel Mechanics-Comprehensive 20107,no
+1281,20108,Particular Topics in Diesel Mechanics 20108,no
+1282,20109,Small Vehicle Mechanics 20109,no
+1283,20110,Small Engine Mechanics 20110,no
+1284,20111,Marine Mechanics 20111,no
+1285,20112,Heavy Equipment Mechanics 20112,no
+1286,20113,Aircraft Power Plant 20113,no
+1287,20114,Aircraft Airframe 20114,no
+1288,20115,Automotive Detailing and Reconditioning 20115,no
+1289,20116,Automotive Body Repair and Refinishing-Comprehensive 20116,no
+1290,20117,Particular Topics in Automotive Body Repair and Refinishing 20117,no
+1291,20118,Boat Repair/Refinishing 20118,no
+1292,20147,Mechanics and Repair-Independent Study 20147,no
+1293,20148,Mechanics and Repair-Workplace Experience 20148,no
+1294,20149,Mechanics and Repair-Other 20149,no
+1295,20151,Distribution-Comprehensive 20151,no
+1296,20152,Warehouse Operations 20152,no
+1297,20197,Distribution and Logistics-Independent Study 20197,no
+1298,20198,Distribution and Logistics-Workplace Experience 20198,no
+1299,20199,Distribution and Logistics-Other 20199,no
+1300,20995,"Transportation, Distribution and Logistics-Aide 20995",no
+1301,20997,"Transportation, Distribution and Logistics-Independent Study 20997",no
+1302,20998,"Transportation, Distribution and Logistics-Workplace Experience 20998",no
+1303,20999,"Transportation, Distribution and Logistics-Other 20999",no
+1304,21001,Pre-Engineering Technology 21001,no
+1305,21002,Engineering Applications 21002,no
+1306,21003,Engineering Technology 21003,no
+1307,21004,Principles of Engineering 21004,no
+1308,21005,Engineering-Comprehensive 21005,no
+1309,21006,Engineering Design 21006,no
+1310,21007,Engineering Design and Development 21007,no
+1311,21008,Digital Electronics 21008,no
+1312,21009,Robotics 21009,no
+1313,21010,Computer Integrated Manufacturing 21010,no
+1314,21011,Civil Engineering 21011,no
+1315,21012,Civil Engineering and Architecture 21012,no
+1316,21013,Aerospace Engineering 21013,no
+1317,21014,Biotechnical Engineering 21014,no
+1318,21015,Particular Topics in Engineering 21015,no
+1319,21047,Engineering-Independent Study 21047,no
+1320,21048,Engineering-Workplace Experience 21048,no
+1321,21049,Engineering-Other 21049,no
+1322,21051,Technological Literacy 21051,no
+1323,21052,Technological Processes 21052,no
+1324,21053,Emerging Technologies 21053,no
+1325,21054,Technology Innovation and Assessment 21054,no
+1326,21055,Aerospace Technology 21055,no
+1327,21056,Particular Topics in Technology Applications 21056,no
+1328,21097,Technology-Independent Study 21097,no
+1329,21098,Technology-Workplace Experience 21098,no
+1330,21099,Technology-Other 21099,no
+1331,21101,Drafting Careers Exploration 21101,no
+1332,21102,Drafting-General 21102,no
+1333,21103,Drafting-Architectural 21103,no
+1334,21104,Drafting-Civil/Structural 21104,no
+1335,21105,Drafting-Electrical/Electronic 21105,no
+1336,21106,Drafting-Technical/Mechanical 21106,no
+1337,21107,CAD Design and Software 21107,no
+1338,21108,Blueprint Reading 21108,no
+1339,21147,Drafting-Independent Study 21147,no
+1340,21148,Drafting-Workplace Experience 21148,no
+1341,21149,Drafting-Other 21149,no
+1342,21995,Engineering and Technology-Aide 21995,no
+1343,21997,Engineering and Technology-Independent Study 21997,no
+1344,21998,Engineering and Technology-Workplace Experience 21998,no
+1345,21999,Engineering and Technology-Other 21999,no
+1346,22001,Standardized Test Preparation 22001,no
+1347,22002,State Test Preparation 22002,no
+1348,22003,Study Skills 22003,no
+1349,22004,Dropout Prevention Program 22004,no
+1350,22005,Tutorial 22005,no
+1351,22006,Study Hall 22006,no
+1352,22051,Office Aide 22051,no
+1353,22052,Guidance Aide 22052,no
+1354,22053,Library/AVC Aide 22053,no
+1355,22054,Tutoring Practicum 22054,no
+1356,22101,Leadership 22101,no
+1357,22102,School Orientation 22102,no
+1358,22103,School Governance 22103,no
+1359,22104,Community Service 22104,no
+1360,22105,Values Clarification 22105,no
+1361,22106,Seminar 22106,no
+1362,22151,Career Exploration 22151,no
+1363,22152,Employability Skills 22152,no
+1364,22153,Diversified Occupations 22153,no
+1365,22201,Family and Consumer Science-Comprehensive 22201,no
+1366,22202,Food and Nutrition 22202,no
+1367,22203,Food Science 22203,no
+1368,22204,Child Development/Parenting 22204,no
+1369,22205,Clothing/Sewing 22205,no
+1370,22206,Life Skills 22206,no
+1371,22207,Self Management 22207,no
+1372,22208,Family Living 22208,no
+1373,22209,Personal Development 22209,no
+1374,22210,Consumer Economics/Personal Finance 22210,no
+1375,22211,Home Decor 22211,no
+1376,22245,Family and Consumer Science-Aide 22245,no
+1377,22247,Family and Consumer Science-Independent Study 22247,no
+1378,22249,Family and Consumer Science-Other 22249,no
+1379,22995,Miscellaneous-Aide 22995,no
+1380,22997,Miscellaneous-Independent Study 22997,no
+1381,22998,Miscellaneous-Workplace Experience 22998,no
+1382,22999,Miscellaneous-Other 22999,no
+1383,40000,Middle/Jr High Curriculum 40000,no
+1384,80000,Elementary Curriculum 80000,no
+1385,23000,AVID - Advanced Via Individual Determination 23000,no
+1386,51007,"IB Language A (English), Middle Years Program 51007",no
+1387,51008,English as a Second Language 51008,no
+1388,51009,Language Arts Laboratory 51009,no
+1389,51026,Language Arts (early childhood education) 51026,no
+1390,51027,Language Arts (pre-kindergarten) 51027,no
+1391,51028,Language Arts (kindergarten) 51028,no
+1392,51029,Language Arts (grade 1) 51029,no
+1393,51030,Language Arts (grade 2) 51030,no
+1394,51031,Language Arts (grade 3) 51031,no
+1395,51032,Language Arts (grade 4) 51032,no
+1396,51033,Language Arts (grade 5) 51033,no
+1397,51034,Language Arts (grade 6) 51034,no
+1398,51035,Language Arts (grade 7) 51035,no
+1399,51036,Language Arts (grade 8) 51036,no
+1400,51037,Language Arts 51037,no
+1401,51038,Reading (early childhood education) 51038,no
+1402,51039,Reading (pre-kindergarten) 51039,no
+1403,51040,Reading (kindergarten) 51040,no
+1404,51041,Reading (grade 1) 51041,no
+1405,51042,Reading (grade 2) 51042,no
+1406,51043,Reading (grade 3) 51043,no
+1407,51044,Reading (grade 4) 51044,no
+1408,51045,Reading (grade 5) 51045,no
+1409,51046,Reading (grade 6) 51046,no
+1410,51047,Reading (grade 7) 51047,no
+1411,51048,Reading (grade 8) 51048,no
+1412,51049,Reading 51049,no
+1413,51053,Literature 51053,no
+1414,51066,Strategic Reading 51066,no
+1415,51067,Assisted Reading 51067,no
+1416,51068,Corrective Reading 51068,no
+1417,51097,Literature-Independent Study 51097,no
+1418,51099,Literature-Other 51099,no
+1419,51103,Composition 51103,no
+1420,51104,Creative Writing 51104,no
+1421,51128,Writing (early childhood education) 51128,no
+1422,51129,Writing (pre-kindergarten) 51129,no
+1423,51130,Writing (kindergarten) 51130,no
+1424,51131,Writing (grade 1) 51131,no
+1425,51132,Writing (grade 2) 51132,no
+1426,51133,Writing (grade 3) 51133,no
+1427,51134,Writing (grade 4) 51134,no
+1428,51135,Writing (grade 5) 51135,no
+1429,51136,Writing (grade 6) 51136,no
+1430,51137,Writing (grade 7) 51137,no
+1431,51138,Writing (grade 8) 51138,no
+1432,51139,Writing 51139,no
+1433,51147,Composition-Independent Study 51147,no
+1434,51149,Composition-Other 51149,no
+1435,51151,Public Speaking 51151,no
+1436,51155,Communications 51155,no
+1437,51197,Speech-Independent Study 51197,no
+1438,51199,Speech-Other 51199,no
+1439,51203,English-Test Preparation 51203,no
+1440,51991,Language Arts Laboratory 51991,no
+1441,51992,English Proficiency Development 51992,no
+1442,51996,English Language and Literature-Supplemental 51996,no
+1443,51997,English Language and Literature-Independent Study 51997,no
+1444,51999,English Language and Literature-Other 51999,no
+1445,52001,Informal Mathematics 52001,no
+1446,52002,General Math 52002,no
+1447,52003,Particular Topics in Foundational Mathematics 52003,no
+1448,52028,Mathematics (early childhood education) 52028,no
+1449,52029,Mathematics (pre-kindergarten) 52029,no
+1450,52030,Mathematics (kindergarten) 52030,no
+1451,52031,Mathematics (grade 1) 52031,no
+1452,52032,Mathematics (grade 2) 52032,no
+1453,52033,Mathematics (grade 3) 52033,no
+1454,52034,Mathematics (grade 4) 52034,no
+1455,52035,Mathematics (grade 5) 52035,no
+1456,52036,Mathematics (grade 6) 52036,no
+1457,52037,Mathematics (grade 7) 52037,no
+1458,52038,Mathematics (grade 8) 52038,no
+1459,52039,Mathematics 52039,no
+1460,52047,Foundation Math-Independent Study 52047,no
+1461,52049,Foundation Math-Other 52049,no
+1462,52051,Pre-Algebra 52051,no
+1463,52052,Algebra I 52052,no
+1464,52061,Integrated Math-Multiyear Equivalent 52061,no
+1465,52069,Algebra-Other 52069,no
+1466,52071,Informal Geometry 52071,no
+1467,52072,Geometry 52072,no
+1468,52073,Analytic Geometry 52073,no
+1469,52074,Principles of Algebra and Geometry 52074,no
+1470,52075,Particular Topics in Geometry 52075,no
+1471,52079,Geometry-Other 52079,no
+1472,52132,"IB Mathematics, Middle Years Program 52132",no
+1473,52157,Consumer Math 52157,no
+1474,52991,History of Math 52991,no
+1475,52993,Mathematics-Test Preparation 52993,no
+1476,52994,Mathematics Proficiency Development 52994,no
+1477,52996,Mathematics-Supplemental 52996,no
+1478,52997,Mathematics-Independent Study 52997,no
+1479,52999,Mathematics-Other 52999,no
+1480,53008,Earth/Space Science 53008,no
+1481,53009,Particular Topics in Earth Science 53009,no
+1482,53047,Earth Science-Independent Study 53047,no
+1483,53049,Earth Science-Other 53049,no
+1484,53051,Biology 53051,no
+1485,53063,Particular Topics in Biology 53063,no
+1486,53097,Biology-Independent Study 53097,no
+1487,53099,Biology-Other 53099,no
+1488,53101,Chemistry 53101,no
+1489,53108,Particular Topics in Chemistry 53108,no
+1490,53147,Chemistry-Independent Study 53147,no
+1491,53149,Chemistry-Other 53149,no
+1492,53151,Physics 53151,no
+1493,53153,Principles of Technology 53153,no
+1494,53158,Life Science 53158,no
+1495,53159,Physical Science (prior-to-secondary) 53159,no
+1496,53162,Particular Topics in Physics 53162,no
+1497,53197,Physics-Independent Study 53197,no
+1498,53199,Physics-Other 53199,no
+1499,53201,Integrated Science 53201,no
+1500,53202,Unified Science 53202,no
+1501,53203,"IB Sciences, Middle Years Program 53203",no
+1502,53228,Science (early childhood education) 53228,no
+1503,53229,Science (pre-kindergarten) 53229,no
+1504,53230,Science (kindergarten) 53230,no
+1505,53231,Science (grade 1) 53231,no
+1506,53232,Science (grade 2) 53232,no
+1507,53233,Science (grade 3) 53233,no
+1508,53234,Science (grade 4) 53234,no
+1509,53235,Science (grade 5) 53235,no
+1510,53236,Science (grade 6) 53236,no
+1511,53237,Science (grade 7) 53237,no
+1512,53238,Science (grade 8) 53238,no
+1513,53239,Science 53239,no
+1514,53994,Life and Physical Sciences-Proficiency Development 53994,no
+1515,53996,Life and Physical Sciences-Supplemental 53996,no
+1516,53997,Life and Physical Sciences-Independent Study 53997,no
+1517,53999,Life and Physical Sciences-Other 53999,no
+1518,54001,World Geography 54001,no
+1519,54002,Particular Topics in Geography 54002,no
+1520,54003,U.S. Geography 54003,no
+1521,54047,Geography-Independent Study 54047,no
+1522,54051,World History-Overview 54051,no
+1523,54061,World Area Studies 54061,no
+1524,54062,World People Studies 54062,no
+1525,54063,Western Civilization 54063,no
+1526,54064,Contemporary World Issues 54064,no
+1527,54097,World History-Independent Study 54097,no
+1528,54101,U.S. History-Comprehensive 54101,no
+1529,54105,State-Specific Studies 54105,no
+1530,54106,Contemporary U.S. Issues 54106,no
+1531,54107,U.S. Ethnic Studies 54107,no
+1532,54147,U.S. History-Independent Study 54147,no
+1533,54149,U.S. History-Other 54149,no
+1534,54151,U.S. Government-Comprehensive 54151,no
+1535,54161,Civics 54161,no
+1536,54171,"IB Humanities, Middle Years Program 54171",no
+1537,54197,"Government, Politics, and Law-Independent Study 54197",no
+1538,54199,"Government, Politics, and Law-Other 54199",no
+1539,54428,Social Studies (early childhood education) 54428,no
+1540,54429,Social Studies (pre-kindergarten) 54429,no
+1541,54430,Social Studies (kindergarten) 54430,no
+1542,54431,Social Studies (grade 1) 54431,no
+1543,54432,Social Studies (grade 2) 54432,no
+1544,54433,Social Studies (grade 3) 54433,no
+1545,54434,Social Studies (grade 4) 54434,no
+1546,54435,Social Studies (grade 5) 54435,no
+1547,54436,Social Studies (grade 6) 54436,no
+1548,54437,Social Studies (grade 7) 54437,no
+1549,54438,Social Studies (grade 8) 54438,no
+1550,54439,Social Studies 54439,no
+1551,54996,Social Sciences and History-Supplemental 54996,no
+1552,54997,Social Sciences and History-Independent Study 54997,no
+1553,54999,Social Sciences and History-Other 54999,no
+1554,55001,Dance Technique 55001,no
+1555,55002,Dance Repertory 55002,no
+1556,55003,Expressive Movement 55003,no
+1557,55004,Dance Appreciation 55004,no
+1558,55005,Choreography 55005,no
+1559,55028,Dance (early childhood education) 55028,no
+1560,55029,Dance (pre-kindergarten) 55029,no
+1561,55030,Dance (kindergarten) 55030,no
+1562,55031,Dance (grade 1) 55031,no
+1563,55032,Dance (grade 2) 55032,no
+1564,55033,Dance (grade 3) 55033,no
+1565,55034,Dance (grade 4) 55034,no
+1566,55035,Dance (grade 5) 55035,no
+1567,55036,Dance (grade 6) 55036,no
+1568,55037,Dance (grade 7) 55037,no
+1569,55038,Dance (grade 8) 55038,no
+1570,55039,Dance 55039,no
+1571,55047,Dance-Independent Study 55047,no
+1572,55049,Dance-Other 55049,no
+1573,55051,Introduction to the Theater 55051,no
+1574,55052,Theatre Arts 55052,no
+1575,55053,Drama-Comprehensive 55053,no
+1576,55054,Exploration in Drama 55054,no
+1577,55068,Drama (early childhood education) 55068,no
+1578,55069,Drama (pre-kindergarten) 55069,no
+1579,55070,Drama (kindergarten) 55070,no
+1580,55071,Drama (grade 1) 55071,no
+1581,55072,Drama (grade 2) 55072,no
+1582,55073,Drama (grade 3) 55073,no
+1583,55074,Drama (grade 4) 55074,no
+1584,55075,Drama (grade 5) 55075,no
+1585,55076,Drama (grade 6) 55076,no
+1586,55077,Drama (grade 7) 55077,no
+1587,55078,Drama (grade 8) 55078,no
+1588,55079,Drama 55079,no
+1589,55097,Drama-Independent Study 55097,no
+1590,55099,Drama-Other 55099,no
+1591,55101,General Band 55101,no
+1592,55102,Concert Band 55102,no
+1593,55103,Marching Band 55103,no
+1594,55104,Orchestra 55104,no
+1595,55105,Contemporary Band 55105,no
+1596,55106,Instrumental Ensembles 55106,no
+1597,55110,Chorus 55110,no
+1598,55111,Vocal Ensembles 55111,no
+1599,55116,Music History/Appreciation 55116,no
+1600,55118,Music Appreciation 55118,no
+1601,55128,Music (early childhood education) 55128,no
+1602,55129,Music (pre-kindergarten) 55129,no
+1603,55130,Music (kindergarten) 55130,no
+1604,55131,Music (grade 1) 55131,no
+1605,55132,Music (grade 2) 55132,no
+1606,55133,Music (grade 3) 55133,no
+1607,55134,Music (grade 4) 55134,no
+1608,55135,Music (grade 5) 55135,no
+1609,55136,Music (grade 6) 55136,no
+1610,55137,Music (grade 7) 55137,no
+1611,55138,Music (grade 8) 55138,no
+1612,55139,Music 55139,no
+1613,55147,Music-Independent Study 55147,no
+1614,55149,Music-Other 55149,no
+1615,55151,Art Appreciation 55151,no
+1616,55152,Art History 55152,no
+1617,55154,Creative Art-Comprehensive 55154,no
+1618,55155,Creative Art-Drawing/Painting 55155,no
+1619,55156,Creative Art-Drawing 55156,no
+1620,55157,Creative Art-Painting 55157,no
+1621,55158,Creative Art-Sculpture 55158,no
+1622,55159,Ceramics/Pottery 55159,no
+1623,55165,Crafts 55165,no
+1624,55167,Photography 55167,no
+1625,55168,Film/Videotape 55168,no
+1626,55178,Art (early childhood education) 55178,no
+1627,55179,Art (pre-kindergarten) 55179,no
+1628,55180,Art (kindergarten) 55180,no
+1629,55181,Art (grade 1) 55181,no
+1630,55182,Art (grade 2) 55182,no
+1631,55183,Art (grade 3) 55183,no
+1632,55184,Art (grade 4) 55184,no
+1633,55185,Art (grade 5) 55185,no
+1634,55186,Art (grade 6) 55186,no
+1635,55187,Art (grade 7) 55187,no
+1636,55188,Art (grade 8) 55188,no
+1637,55189,Art 55189,no
+1638,55197,Visual Art-Independent Study 55197,no
+1639,55199,Visual Arts-Other 55199,no
+1640,55201,Integrated Fine Arts 55201,no
+1641,55202,"IB Arts, Middle Years Program 55202",no
+1642,55997,Fine and Performing Arts-Independent Study 55997,no
+1643,55999,Fine and Performing Arts-Other 55999,no
+1644,56028,Foreign Language (early childhood education) 56028,no
+1645,56029,Foreign Language (pre-kindergarten) 56029,no
+1646,56030,Foreign Language (kindergarten) 56030,no
+1647,56031,Foreign Language (grade 1) 56031,no
+1648,56032,Foreign Language (grade 2) 56032,no
+1649,56033,Foreign Language (grade 3) 56033,no
+1650,56034,Foreign Language (grade 4) 56034,no
+1651,56035,Foreign Language (grade 5) 56035,no
+1652,56036,Foreign Language (grade 6) 56036,no
+1653,56037,Foreign Language (grade 7) 56037,no
+1654,56038,Foreign Language (grade 8) 56038,no
+1655,56039,Foreign Language 56039,no
+1656,56100,Spanish 56100,no
+1657,56101,"IB Language B (Spanish), Middle Years Program 56101",no
+1658,56120,French 56120,no
+1659,56121,"IB Language B (French), Middle Years Program 56121",no
+1660,56140,Italian 56140,no
+1661,56141,"IB Language B (Italian), Middle Years Program 56141",no
+1662,56160,Portuguese 56160,no
+1663,56161,"IB Language B (Portuguese), Middle Years Program 56161",no
+1664,56200,German 56200,no
+1665,56201,"IB Language B (German), Middle Years Program 56201",no
+1666,56280,Greek 56280,no
+1667,56281,"IB Language B (Greek), Middle Years Program 56281",no
+1668,56300,Latin 56300,no
+1669,56320,Classical Greek 56320,no
+1670,56400,Chinese 56400,no
+1671,56401,"IB Language B (Chinese), Middle Years Program 56401",no
+1672,56420,Japanese 56420,no
+1673,56421,"IB Language B (Japanese), Middle Years Program 56421",no
+1674,56440,Korean 56440,no
+1675,56441,"IB Language B (Korean), Middle Years Program 56441",no
+1676,56500,Vietnamese 56500,no
+1677,56501,"IB Language B (Vietnamese), Middle Years Program 56501",no
+1678,56520,Filipino 56520,no
+1679,56521,"IB Language B (Filipino), Middle Years Program 56521",no
+1680,56600,Russian 56600,no
+1681,56601,"IB Language B (Russian), Middle Years Program 56601",no
+1682,56700,Hebrew 56700,no
+1683,56701,"IB Language B (Hebrew), Middle Years Program 56701",no
+1684,56720,Arabic 56720,no
+1685,56721,"IB Language B (Arabic), Middle Years Program 56721",no
+1686,56760,Swahili 56760,no
+1687,56761,"IB Language B (Swahili), Middle Years Program 56761",no
+1688,56800,American Sign Language 56800,no
+1689,56801,"IB Language B (American Sign Language), Middle Years Program 56801",no
+1690,56820,American Indian Language 56820,no
+1691,56821,"IB Language B (American Indian Language), Middle Years Program 56821",no
+1692,56997,Foreign Language and Literature-Independent Study 56997,no
+1693,56999,Foreign Language and Literature-Other 56999,no
+1694,57001,Religious Foundations 57001,no
+1695,57005,Scriptures 57005,no
+1696,57006,Old Testament 57006,no
+1697,57007,New Testament 57007,no
+1698,57008,Bible History 57008,no
+1699,57015,Faith and Lifestyle 57015,no
+1700,57997,Religious Education and Theology-Independent Study 57997,no
+1701,57999,Religious Education and Theology-Other 57999,no
+1702,58001,Physical Education 58001,no
+1703,58002,Team Sports 58002,no
+1704,58003,Individual/Dual Sports 58003,no
+1705,58004,Recreation Sports 58004,no
+1706,58005,Fitness/Conditioning Activities 58005,no
+1707,58007,Adapted Physical Education 58007,no
+1708,58008,Gymnastics 58008,no
+1709,58010,Aquatics/Water Sports 58010,no
+1710,58013,Specific Sports Activities 58013,no
+1711,58014,Physical Education Equivalent 58014,no
+1712,58015,Off-Campus Sports 58015,no
+1713,58016,Lifetime Fitness Education 58016,no
+1714,58028,Physical Education (early childhood education) 58028,no
+1715,58029,Physical Education (pre-kindergarten) 58029,no
+1716,58030,Physical Education (kindergarten) 58030,no
+1717,58031,Physical Education (grade 1) 58031,no
+1718,58032,Physical Education (grade 2) 58032,no
+1719,58033,Physical Education (grade 3) 58033,no
+1720,58034,Physical Education (grade 4) 58034,no
+1721,58035,Physical Education (grade 5) 58035,no
+1722,58036,Physical Education (grade 6) 58036,no
+1723,58037,Physical Education (grade 7) 58037,no
+1724,58038,Physical Education (grade 8) 58038,no
+1725,58039,Physical Education 58039,no
+1726,58040,"IB Physical Education, Middle Years Program 58040",no
+1727,58047,Physical Education-Independent Study 58047,no
+1728,58049,Physical Education-Other 58049,no
+1729,58051,Health Education 58051,no
+1730,58052,Health and Fitness 58052,no
+1731,58057,Health and Life Management 58057,no
+1732,58058,Substance Abuse Prevention 58058,no
+1733,58097,Health Education-Independent Study 58097,no
+1734,58997,"Physical, Health, and Safety Education-Independent Study 58997",no
+1735,58999,"Physical, Health, and Safety Education-Other 58999",no
+1736,60001,Introduction to Computers 60001,no
+1737,60002,Computing Systems 60002,no
+1738,60003,Computer and Information Technology 60003,no
+1739,60004,Computer Applications 60004,no
+1740,60008,Particular Topics in Computer Literacy 60008,no
+1741,60010,Computer Literacy 60010,no
+1742,60049,Computer Literacy-Other 60049,no
+1743,60201,Web Page Design 60201,no
+1744,60202,Computer Graphics 60202,no
+1745,60203,Interactive Media 60203,no
+1746,60247,Media Technology-Independent Study 60247,no
+1747,60997,Computer and Information Sciences-Independent Study 60997,no
+1748,60999,Computer and Information Sciences-Other 60999,no
+1749,61001,Introduction to Communication 61001,no
+1750,61002,Communication Technology 61002,no
+1751,61003,Particular Topics in Communication 61003,no
+1752,61047,Communication-Independent Study 61047,no
+1753,61049,Communication-Other 61049,no
+1754,61051,Audio/Visual Production 61051,no
+1755,61052,Commercial Photography 61052,no
+1756,61053,Photographic Laboratory and Darkroom 61053,no
+1757,61054,Photo Imaging 61054,no
+1758,61055,Video 61055,no
+1759,61056,Particular Topics in Audio/Video Technology and Film 61056,no
+1760,61099,Audio/Video Technology and Film-Other 61099,no
+1761,61101,Journalism 61101,no
+1762,61102,Photojournalism 61102,no
+1763,61103,Broadcasting Technology 61103,no
+1764,61104,Publication Production 61104,no
+1765,61105,Particular Topics in Journalism and Broadcasting 61105,no
+1766,61147,Journalism and Broadcasting-Independent Study 61147,no
+1767,61149,Journalism and Broadcasting-Other 61149,no
+1768,61151,Digital Media Technology 61151,no
+1769,61152,Desktop Publishing 61152,no
+1770,61159,Particular Topics in Printing Technology and Production 61159,no
+1771,61197,Printing Technology-Independent Study 61197,no
+1772,61199,Printing Technology-Other 61199,no
+1773,61997,Communication and Audio/Video Technology-Independent Study 61997,no
+1774,61999,Communication and Audio/Video Technology-Other 61999,no
+1775,62001,Business/Office Career Exploration 62001,no
+1776,62005,Keyboarding 62005,no
+1777,62006,Word Processing 62006,no
+1778,62008,Particular Topics in Administration 62008,no
+1779,62047,Administration-Independent Study 62047,no
+1780,62051,Introductory Business 62051,no
+1781,62097,Management-Independent Study 62097,no
+1782,62101,Banking and Finance 62101,no
+1783,62147,Finance-Independent Study 62147,no
+1784,62151,Marketing Career Exploration 62151,no
+1785,62152,Marketing-Comprehensive 62152,no
+1786,62197,Marketing-Independent Study 62197,no
+1787,62997,Business and Marketing-Independent Study 62997,no
+1788,62999,Business and Marketing-Other 62999,no
+1789,63001,Exploration of Manufacturing Occupations 63001,no
+1790,63003,Industrial Arts 63003,no
+1791,63052,Material and Processes 63052,no
+1792,63997,Manufacturing-Independent Study 63997,no
+1793,63999,Manufacturing-Other 63999,no
+1794,64001,Exploration of Health Care Occupations 64001,no
+1795,64002,Health Care Occupations-Comprehensive 64002,no
+1796,64997,Health Care Sciences-Independent Study 64997,no
+1797,64999,Health Care Sciences-Other 64999,no
+1798,65001,Exploration of Public Service Careers 65001,no
+1799,65997,"Public, Protective, and Government Service-Independent Study 65997",no
+1800,65999,"Public, Protective, and Government Services-Other 65999",no
+1801,66001,Exploration of Hospitality Careers 66001,no
+1802,66997,Hospitality and Tourism-Independent Study 66997,no
+1803,66999,Hospitality and Tourism-Other 66999,no
+1804,67001,Construction Careers Exploration 67001,no
+1805,67002,Construction-Comprehensive 67002,no
+1806,67997,Architecture and Construction-Independent Study 67997,no
+1807,67999,Architecture and Construction-Other 67999,no
+1808,68001,Introduction to Agriculture and Natural Resources 68001,no
+1809,68002,Agriculture-Comprehensive 68002,no
+1810,68003,Agriculture and Natural Resources-Comprehensive 68003,no
+1811,68997,"Agriculture, Food, and Natural Resources-Independent Study 68997",no
+1812,68999,"Agriculture, Food, and Natural Resources-Other 68999",no
+1813,69001,Human Services Career Exploration 69001,no
+1814,69997,Human Services-Independent Study 69997,no
+1815,69999,Human Services-Other 69999,no
+1816,70001,"Exploration of Transportation, Distribution, and Logistics 70001",no
+1817,70997,"Transportation, Distribution, and Logistics-Independent Study 70997",no
+1818,70999,"Transportation, Distribution, and Logistics-Other 70999",no
+1819,71001,Pre-Engineering Technology 71001,no
+1820,71002,Engineering Applications 71002,no
+1821,71003,Engineering Technology 71003,no
+1822,71004,Principles of Engineering 71004,no
+1823,71005,Engineering-Comprehensive 71005,no
+1824,71006,Engineering Design 71006,no
+1825,71009,Robotics 71009,no
+1826,71047,Engineering-Independent Study 71047,no
+1827,71049,Engineering-Other 71049,no
+1828,71051,Technological Literacy 71051,no
+1829,71052,"IB Technology, Middle Years Program 71052",no
+1830,71097,Technology-Independent Study 71097,no
+1831,71102,Drafting-General 71102,no
+1832,71147,Drafting-Independent Study 71147,no
+1833,71997,Engineering and Technology-Independent Study 71997,no
+1834,71999,Engineering and Technology-Other 71999,no
+1835,72001,Standardized Test Preparation 72001,no
+1836,72002,State Test Preparation 72002,no
+1837,72003,Study Skills 72003,no
+1838,72004,Dropout Prevention Program 72004,no
+1839,72005,Tutorial 72005,no
+1840,72006,Study Hall 72006,no
+1841,72007,Advancement Via Individual Determination (AVID) 72007,no
+1842,72101,Leadership 72101,no
+1843,72102,School Orientation 72102,no
+1844,72103,School Governance 72103,no
+1845,72104,Community Service 72104,no
+1846,72105,Values Clarification 72105,no
+1847,72106,Seminar 72106,no
+1848,72151,Career Exploration 72151,no
+1849,72152,Employability Skills 72152,no
+1850,72201,Family and Consumer Science-Comprehensive 72201,no
+1851,72202,Food and Nutrition 72202,no
+1852,72203,Food Science 72203,no
+1853,72205,Clothing/Sewing 72205,no
+1854,72206,Life Skills 72206,no
+1855,72207,Self-Management 72207,no
+1856,72208,Family Living 72208,no
+1857,72209,Personal Development 72209,no
+1858,72210,Consumer Economics/Personal Finance 72210,no
+1859,72249,Family and Consumer Science-Other 72249,no
+1860,72250,Exploratory 72250,no
+1861,72260,"IB Personal Project, Middle Years Program 72260",no
+1862,72995,Miscellaneous-Aide 72995,no
+1863,72999,Miscellaneous-Other 72999,no
+1864,73028,Early Childhood Education 73028,no
+1865,73029,Pre-kindergarten 73029,no
+1866,73030,Kindergarten 73030,no
+1867,73031,Grade 1 73031,no
+1868,73032,Grade 2 73032,no
+1869,73033,Grade 3 73033,no
+1870,73034,Grade 4 73034,no
+1871,73035,Grade 5 73035,no
+1872,73036,Grade 6 73036,no
+1873,73037,Grade 7 73037,no
+1874,73038,Grade 8 73038,no
+1875,73039,Prior-to-Secondary Education 73039,no
+1876,73041,IB Primary Years Program 73041,no
+1877,2099,Bridge to College Mathematics 02099,no
+1878,1069,Bridge to College Language Arts 01069,no
+1879,3165,AP Physics 1 03165,no
+1880,3166,AP Physics 2 03166,no
+1881,01008N,English as a Second Language,no
+1882,01009N,Language Arts Laboratory,no
+1884,01010N,"IB Language A (English), Middle Years Program",no
+1885,01011N,IB Language A: Language and Literature-English,no
+1886,01012N,IB Literature and Performance,no
+1887,01026N,Language Arts (early childhood education),no
+1888,01027N,Language Arts (pre-kindergarten),no
+1889,01028N,Language Arts (kindergarten),no
+1890,01029N,Language Arts (grade 1),no
+1891,01030N,Language Arts (grade 2),no
+1892,01031N,Language Arts (grade 3),no
+1893,01032N,Language Arts (grade 4),no
+1894,01033N,Language Arts (grade 5),no
+1895,01034N,Language Arts (grade 6),no
+1896,01035N,Language Arts (grade 7),no
+1897,01036N,Language Arts (grade 8),no
+1898,01037N,Language Arts-General,no
+1899,01038N,Reading (early childhood education),no
+1900,01039N,Reading (pre-kindergarten),no
+1901,01040N,Reading (kindergarten),no
+1902,01041N,Reading (grade 1),no
+1903,01042N,Reading (grade 2),no
+1904,01043N,Reading (grade 3),no
+1905,01044N,Reading (grade 4),no
+1906,01045N,Reading (grade 5),no
+1907,01046N,Reading (grade 6),no
+1908,01047N,Reading (grade 7),no
+1909,01048N,Reading (grade 8),no
+1910,01049N,Reading-General,no
+1911,01053N,Literature,no
+1912,01066N,Strategic Reading,no
+1913,01067N,Assisted Reading,no
+1914,01068N,Corrective Reading,no
+1915,01097N,Literature-Independent Study,no
+1916,01099N,Literature-Other,no
+1917,01103N,Composition,no
+1918,01104N,Creative Writing,no
+1919,01128N,Writing (early childhood education),no
+1920,01129N,Writing (pre-kindergarten),no
+1921,01130N,Writing (kindergarten),no
+1922,01131N,Writing (grade 1),no
+1923,01132N,Writing (grade 2),no
+1924,01133N,Writing (grade 3),no
+1925,01134N,Writing (grade 4),no
+1926,01135N,Writing (grade 5),no
+1927,01136N,Writing (grade 6),no
+1928,01137N,Writing (grade 7),no
+1929,01138N,Writing (grade 8),no
+1930,01139N,Writing-General,no
+1931,01147N,Composition-Independent Study,no
+1932,01149N,Composition-Other,no
+1933,01151N,Public Speaking,no
+1934,01155N,Communications,no
+1935,01197N,Speech-Independent Study,no
+1936,01199N,Speech-Other,no
+1937,01203N,English-Test Preparation,no
+1938,01992N,English Proficiency Development,no
+1939,01996N,English Language and Literature-Supplemental,no
+1940,01997N,English Language and Literature-Independent Study,no
+1941,01999N,English Language and Literature-Other,no
+1942,02001N,Informal Mathematics,no
+1943,02002N,General Math,no
+1944,02003N,Particular Topics in Foundation Math,no
+1945,02028N,Mathematics (early childhood education),no
+1946,02029N,Mathematics (pre-kindergarten),no
+1947,02030N,Mathematics (kindergarten),no
+1948,02031N,Mathematics (grade 1),no
+1949,02032N,Mathematics (grade 2),no
+1950,02033N,Mathematics (grade 3),no
+1951,02034N,Mathematics (grade 4),no
+1952,02035N,Mathematics (grade 5),no
+1953,02036N,Mathematics (grade 6),no
+1954,02037N,Mathematics (grade 7),no
+1955,02038N,Mathematics (grade 8),no
+1956,02039N,Mathematics-General,no
+1957,02047N,Foundation Math-Independent Study,no
+1958,02049N,Foundation Math-Other,no
+1959,02051N,Pre-Algebra,no
+1960,02052N,Algebra I,no
+1961,02061N,Integrated Math-multi-year equivalent,no
+1962,02069N,Algebra-Other,no
+1963,02071N,Informal Geometry,no
+1964,02072N,Geometry,no
+1965,02073N,Analytic Geometry,no
+1966,02074N,Principles of Algebra and Geometry,no
+1967,02075N,Particular Topics in Geometry,no
+1968,02079N,Geometry-Other,no
+1969,02135N,"IB Mathematics, Middle Years Program",no
+1970,02157N,Consumer Math,no
+1971,02991N,History of Math,no
+1972,02993N,Mathematics-Test Preparation,no
+1973,02994N,Mathematics Proficiency Development,no
+1974,02996N,Mathematics-Supplemental,no
+1975,02997N,Mathematics-Independent Study,no
+1976,02999N,Mathematics-Other,no
+1977,03009N,Particular Topics in Earth Science,no
+1978,03010N,Earth/Space Science (prior-to-secondary),no
+1979,03011N,Physical Science (prior-to-secondary),no
+1980,03012N,Energy and the Environment,no
+1981,03047N,Earth Science-Independent Study,no
+1982,03049N,Earth Science-Other,no
+1983,03051N,Biology,no
+1984,03063N,Particular Topics in Biology,no
+1985,03064N,Regional Biology,no
+1986,03065N,"IB Sports, Exercise, and Health Science",no
+1987,03066N,PLTW Principles of Biomedical Science,no
+1988,03067N,PLTW Human Body Systems,no
+1989,03068N,PLTW Medical Interventions,no
+1990,03097N,Biology-Independent Study,no
+1991,03099N,Biology-Other,no
+1992,03101N,Chemistry,no
+1993,03108N,Particular Topics in Chemistry,no
+1994,03147N,Chemistry-Independent Study,no
+1995,03149N,Chemistry-Other,no
+1996,03151N,Physics,no
+1997,03153N,Principles of Technology,no
+1998,03158N,Life Science,no
+1999,03162N,Particular Topics in Physics,no
+2000,03197N,Physics-Independent Study,no
+2001,03199N,Physics-Other,no
+2002,03201N,Integrated Science,no
+2003,03202N,Unified Science,no
+2004,03213N,"IB Sciences, Middle Years Program",no
+2005,03228N,Science (early childhood education),no
+2006,03229N,Science (pre-kindergarten),no
+2007,03230N,Science (kindergarten),no
+2008,03231N,Science (grade 1),no
+2009,03232N,Science (grade 2),no
+2010,03233N,Science (grade 3),no
+2011,03234N,Science (grade 4),no
+2012,03235N,Science (grade 5),no
+2013,03236N,Science (grade 6),no
+2014,03237N,Science (grade 7),no
+2015,03238N,Science (grade 8),no
+2016,03239N,Science-General,no
+2017,03994N,Life and Physical Sciences-Proficiency Development,no
+2018,03996N,Life and Physical Sciences-Supplemental,no
+2019,03997N,Life and Physical Sciences-Independent Study,no
+2020,03999N,Life and Physical Sciences-Other,no
+2021,04001N,World Geography,no
+2022,04002N,Particular Topics in Geography,no
+2023,04005N,U.S. Geography,no
+2024,04047N,Geography-Independent Study,no
+2025,04051N,World History-Overview,no
+2026,04061N,World Area Studies,no
+2027,04062N,World People Studies,no
+2028,04063N,Western Civilization,no
+2029,04064N,Contemporary World Issues,no
+2030,04097N,World History-Independent Study,no
+2031,04101N,U.S. History-Comprehensive,no
+2032,04105N,State-Specific Studies,no
+2033,04106N,Contemporary U.S. Issues,no
+2034,04107N,U.S. Ethnic Studies,no
+2035,04147N,U.S. History-Independent Study,no
+2036,04149N,U.S. History-Other,no
+2037,04151N,U.S. Government-Comprehensive,no
+2038,04161N,Civics,no
+2039,04167N,Simulated Political Process,no
+2040,04168N,IB Twentieth Century World History,no
+2041,04171N,"IB Humanities, Middle Years Program",no
+2042,04197N,"Government, Politics and Law-Independent Study",no
+2043,04199N,"Government, Politics and Law-Other",no
+2044,04428N,Social Studies (early childhood education),no
+2045,04429N,Social Studies (pre-kindergarten),no
+2046,04430N,Social Studies (kindergarten),no
+2047,04431N,Social Studies (grade 1),no
+2048,04432N,Social Studies (grade 2),no
+2049,04433N,Social Studies (grade 3),no
+2050,04434N,Social Studies (grade 4),no
+2051,04435N,Social Studies (grade 5),no
+2052,04436N,Social Studies (grade 6),no
+2053,04437N,Social Studies (grade 7),no
+2054,04438N,Social Studies (grade 8),no
+2055,04439N,Social Studies-General,no
+2056,04996N,Social Sciences and History-Supplemental,no
+2057,04997N,Social Sciences and History-Independent Study,no
+2058,04999N,Social Sciences and History-Other,no
+2059,05001N,Dance Technique,no
+2060,05002N,Dance Repertory,no
+2061,05003N,General Dance,no
+2062,05004N,Dance History and Appreciation,no
+2063,05005N,Dance-Choreography,no
+2064,05006N,Dance Survey,no
+2065,05007N,Dance Improvisation,no
+2066,05008N,World/Cultural Dance,no
+2067,05009N,Technical Theater for Dance,no
+2068,05010N,Social Dance,no
+2069,05011N,Dance Composition/Composition Seminar,no
+2070,05012N,IB Dance,no
+2071,05028N,Dance (early childhood education),no
+2072,05029N,Dance (pre-kindergarten),no
+2073,05030N,Dance (kindergarten),no
+2074,05031N,Dance (grade 1),no
+2075,05032N,Dance (grade 2),no
+2076,05033N,Dance (grade 3),no
+2077,05034N,Dance (grade 4),no
+2078,05035N,Dance (grade 5),no
+2079,05036N,Dance (grade 6),no
+2080,05037N,Dance (grade 7),no
+2081,05038N,Dance (grade 8),no
+2082,05039N,Dance-General,no
+2083,05047N,Dance-Independent Study,no
+2084,05049N,Dance-Other,no
+2085,05051N,Introduction to Theater,no
+2086,05052N,Theater Arts,no
+2087,05053N,Theater-Comprehensive,no
+2088,05060N,Musical Theater,no
+2089,05061N,Theatrical Production and Management,no
+2090,05068N,Drama (early childhood education),no
+2091,05069N,Drama (pre-kindergarten),no
+2092,05070N,Drama (kindergarten),no
+2093,05071N,Drama (grade 1),no
+2094,05072N,Drama (grade 2),no
+2095,05073N,Drama (grade 3),no
+2096,05074N,Drama (grade 4),no
+2097,05075N,Drama (grade 5),no
+2098,05076N,Drama (grade 6),no
+2099,05077N,Drama (grade 7),no
+2100,05078N,Drama (grade 8),no
+2101,05079N,Drama-General,no
+2102,05097N,Theater-Independent Study,no
+2103,05099N,Theater-Other,no
+2104,05101N,General Band,no
+2105,05102N,Concert Band,no
+2106,05103N,Marching Band,no
+2107,05104N,Orchestra,no
+2108,05105N,Contemporary Instrumental Ensemble,no
+2109,05106N,Small Ensemble,no
+2110,05110N,Chorus,no
+2111,05111N,Vocal Ensemble,no
+2112,05116N,Music History/Appreciation,no
+2113,05118N,Music Appreciation,no
+2114,05120N,Strings,no
+2115,05121N,Contemporary Vocal Ensemble,no
+2116,05122N,Culturally Influenced Ensemble,no
+2117,05128N,Music (early childhood education),no
+2118,05129N,Music (pre-kindergarten),no
+2119,05130N,Music (kindergarten),no
+2120,05131N,Music (grade 1),no
+2121,05132N,Music (grade 2),no
+2122,05133N,Music (grade 3),no
+2123,05134N,Music (grade 4),no
+2124,05135N,Music (grade 5),no
+2125,05136N,Music (grade 6),no
+2126,05137N,Music (grade 7),no
+2127,05138N,Music (grade 8),no
+2128,05139N,Music-General,no
+2129,05147N,Music-Independent Study,no
+2130,05149N,Music-Other,no
+2131,05151N,Art Appreciation,no
+2132,05152N,Art History,no
+2133,05154N,Visual Art-Comprehensive,no
+2134,05155N,Visual Arts-Drawing/Painting,no
+2135,05156N,Visual Arts-Drawing,no
+2136,05157N,Visual Arts-Painting,no
+2137,05158N,Visual Arts-Sculpture,no
+2138,05159N,Ceramics/Pottery,no
+2139,05165N,Crafts,no
+2140,05167N,Photography,no
+2141,05168N,Cinematography/Video Production,no
+2142,05178N,Art (early childhood education),no
+2143,05179N,Art (pre-kindergarten),no
+2144,05180N,Art (kindergarten),no
+2145,05181N,Art (grade 1),no
+2146,05182N,Art (grade 2),no
+2147,05183N,Art (grade 3),no
+2148,05184N,Art (grade 4),no
+2149,05185N,Art (grade 5),no
+2150,05186N,Art (grade 6),no
+2151,05187N,Art (grade 7),no
+2152,05188N,Art (grade 8),no
+2153,05189N,Art-General,no
+2154,05194N,IB Film,no
+2155,05197N,Visual Art-Independent Study,no
+2156,05199N,Visual Arts-Other,no
+2157,05201N,Interdisciplinary Arts,no
+2158,05202N,"IB Arts, Middle Years Program",no
+2159,05203N,Film Appreciation and Analysis,no
+2160,05997N,Visual and Performing Art-Independent Study,no
+2161,05999N,Visual and Performing Art-Other,no
+2162,06028N,Foreign Language (early childhood education),no
+2163,06029N,Foreign Language (pre-kindergarten),no
+2164,06030N,Foreign Language (kindergarten),no
+2165,06031N,Foreign Language (grade 1),no
+2166,06032N,Foreign Language (grade 2),no
+2167,06033N,Foreign Language (grade 3),no
+2168,06034N,Foreign Language (grade 4),no
+2169,06035N,Foreign Language (grade 5),no
+2170,06036N,Foreign Language (grade 6),no
+2171,06037N,Foreign Language (grade 7),no
+2172,06038N,Foreign Language (grade 8),no
+2173,06039N,Foreign Language-General,no
+2174,06100N,Spanish (prior-to-secondary),no
+2175,06114N,"IB Language B (Spanish), Middle Years Program",no
+2176,06115N,IB Language A: Language and Literature-Spanish,no
+2177,06116N,IB Language Ab Initio-Spanish,no
+2178,06120N,French (prior-to-secondary),no
+2179,06134N,"IB Language B (French), Middle Years Program",no
+2180,06135N,IB Language A: Language and Literature-French,no
+2181,06136N,IB Language Ab Initio-French,no
+2182,06140N,Italian (prior-to-secondary),no
+2183,06153N,"IB Language B (Italian), Middle Years Program",no
+2184,06154N,IB Language A: Language and Literature-Italian,no
+2185,06155N,IB Language Ab Initio-Italian,no
+2186,06160N,Portuguese (prior-to-secondary),no
+2187,06172N,"IB Language B (Portuguese), Middle Years Program",no
+2188,06173N,IB Language A: Language and Literature-Portugese,no
+2189,06174N,IB Language Ab Initio-Portuguese,no
+2190,06192N,IB Language A: Language and Literature-Romance/Italic Language,no
+2191,06193N,IB Language Ab Initio-Romance/Italic Language,no
+2192,06200N,German (prior-to-secondary),no
+2193,06213N,"IB Language B (German), Middle Years Program",no
+2194,06214N,IB Language A: Language and Literature-German,no
+2195,06215N,IB Language Ab Initio-German,no
+2196,06252N,IB Language A: Language and Literature-Germanic Language,no
+2197,06253N,IB Language Ab Initio-Germanic Language,no
+2198,06272N,IB Language A: Language and Literature-Celtic Language,no
+2199,06273N,IB Language Ab Initio-Celtic Language,no
+2200,06280N,Greek (prior-to-secondary),no
+2201,06292N,IB Language A: Language and Literature-Greek,no
+2202,06293N,IB Language Ab Initio-Greek,no
+2203,06300N,Latin (prior-to-secondary),no
+2204,06320N,Classical Greek (prior-to-secondary),no
+2205,06332N,"IB Language B (Greek), Middle Years Program",no
+2206,06400N,Chinese (prior-to-secondary),no
+2207,06413N,"IB Language B (Chinese), Middle Years Program",no
+2208,06414N,IB Language A: Language and Literature-Chinese,no
+2209,06415N,IB Language Ab Initio-Chinese,no
+2210,06420N,Japanese (prior-to-secondary),no
+2211,06433N,"IB Language B (Japanese), Middle Years Program",no
+2212,06434N,IB Language A: Language and Literature-Japanese,no
+2213,06435N,IB Language Ab Initio-Japanese,no
+2214,06440N,Korean (prior-to-secondary),no
+2215,06452N,"IB Language B (Korean), Middle Years Program",no
+2216,06453N,IB Language A: Language and Literature-Korean,no
+2217,06454N,IB Language Ab Initio-Korean,no
+2218,06492N,IB Language A: Language and Literature-East Asian Language,no
+2219,06493N,IB Language Ab Initio-East Asian Language,no
+2220,06500N,Vietnamese (prior-to-secondary),no
+2221,06512N,"IB Language B (Vietnamese), Middle Years Program",no
+2222,06513N,IB Language A: Language and Literature-Vietnamese,no
+2223,06514N,IB Language Ab Initio-Vietnamese,no
+2224,06520N,Filipino (prior-to-secondary),no
+2225,06532N,"IB Language B (Filipino), Middle Years Program",no
+2226,06533N,IB Language A: Language and Literature-Filipino,no
+2227,06534N,IB Language Ab Initio-Filipino,no
+2228,06592N,IB Language A: Language and Literature-Southeast Asian Language,no
+2229,06593N,IB Language Ab Initio-Southeast Asian Language,no
+2230,06600N,Russian (prior-to-secondary),no
+2231,06612N,"IB Language B (Russian), Middle Years Program",no
+2232,06613N,IB Language A: Language and Literature-Russian,no
+2233,06614N,IB Language Ab Initio-Russian,no
+2234,06652N,IB Language A: Language and Literature-Balto-Slavic Language,no
+2235,06653N,IB Language Ab Initio-Balto-Slavic Language,no
+2236,06672N,IB Language A: Language and Literature-Turkic/Ural-Altaic Language,no
+2237,06673N,IB Language Ab Initio-Turkic/Ural-Altaic Language,no
+2238,06692N,IB Language A: Language and Literature-Iranian/Persian,no
+2239,06693N,IB Language Ab Initio-Iranian/Persian Language,no
+2240,06700N,Hebrew (prior-to-secondary),no
+2241,06713N,"IB Language B (Hebrew), Middle Years Program",no
+2242,06714N,IB Language A: Language and Literature-Hebrew,no
+2243,06715N,IB Language Ab Initio-Hebrew,no
+2244,06720N,Arabic (prior-to-secondary),no
+2245,06733N,"IB Language B (Arabic), Middle Years Program",no
+2246,06734N,IB Language A: Language and Literature-Arabic,no
+2247,06735N,IB Language Ab Initio-Arabic,no
+2248,06760N,Swahili (prior-to-secondary),no
+2249,06772N,"IB Language B (Swahili), Middle Years Program",no
+2250,06773N,IB Language A: Language and Literature-Swahili,no
+2251,06774N,IB Language Ab Initio-Swahili,no
+2252,06792N,IB Language A: Language and Literature-Non-Semitic African Language,no
+2253,06793N,IB Language Ab Initio-Non-Semitic African Language,no
+2254,06800N,American Sign Language (prior-to-secondary),no
+2255,06806N,"IB Language B (American Sign Language), Middle Years Program",no
+2256,06820N,American Indian Language (prior-to-secondary),no
+2257,06832N,"IB Language B (American Indian Language), Middle Years Program",no
+2258,06833N,IB Language A: Language and Literature-American Indian Language,no
+2259,06834N,IB Language Ab Initio-American Indian Language,no
+2260,06852N,IB Language A: Language and Literature-Indic Language,no
+2261,06853N,IB Language Ab Initio-Indic Language,no
+2262,06872N,IB Language A: Language and Literature-Malayo-Polynesian Language,no
+2263,06873N,IB Language Ab Initio-Malayo-Polynesian Language,no
+2264,06997N,Foreign Language and Literature-Independent Study,no
+2265,06999N,Foreign Language and Literature-Other,no
+2266,07001N,Religious Foundations,no
+2267,07005N,Scriptures,no
+2268,07006N,Old Testament,no
+2269,07007N,New Testament,no
+2270,07008N,Bible History,no
+2271,07015N,Faith and Lifestyle,no
+2272,07017N,IB World Religions,no
+2273,07997N,Religious Education and Theology-Independent Study,no
+2274,07999N,Religious Education and Theology-Other,no
+2275,08001N,Physical Education,no
+2276,08002N,Team Sports,no
+2277,08003N,Individual/Dual Sports,no
+2278,08004N,Recreation Sports,no
+2279,08005N,Fitness/Conditioning Activities,no
+2280,08007N,Adapted Physical Education,no
+2281,08008N,Gymnastics,no
+2282,08010N,Aquatics/Water Sports,no
+2283,08013N,Specific Sports Activities,no
+2284,08014N,Physical Education Equivalent,no
+2285,08015N,Off-Campus Sports,no
+2286,08016N,Lifetime Fitness Education,no
+2287,08028N,Physical Education (early childhood education),no
+2288,08029N,Physical Education (pre-kindergarten),no
+2289,08030N,Physical Education (kindergarten),no
+2290,08031N,Physical Education (grade 1),no
+2291,08032N,Physical Education (grade 2),no
+2292,08033N,Physical Education (grade 3),no
+2293,08034N,Physical Education (grade 4),no
+2294,08035N,Physical Education (grade 5),no
+2295,08036N,Physical Education (grade 6),no
+2296,08037N,Physical Education (grade 7),no
+2297,08038N,Physical Education (grade 8),no
+2298,08039N,Physical Education-General,no
+2299,08040N,"IB Physical Education, Middle Years Program",no
+2300,08047N,Physical Education-Independent Study,no
+2301,08049N,Physical Education-Other,no
+2302,08051N,Health Education,no
+2303,08052N,Health and Fitness,no
+2304,08057N,Health and Life Management,no
+2305,08058N,Substance Abuse Prevention,no
+2306,08097N,Health Education-Independent Study,no
+2307,08997N,"Physical, Health, and Safety Education-Independent Study",no
+2308,08999N,"Physical, Health, and Safety Education-Other",no
+2309,10001N,Introduction to Computer Technology,no
+2310,10002N,Computing Systems,no
+2311,10003N,Computer and Information Technology,no
+2312,10004N,Computer Applications,no
+2313,10008N,Particular Topics in Computer Literacy,no
+2314,10009N,Internet Skills,no
+2315,10010N,Computer Literacy,no
+2316,10013N,PLTW Introduction to Computer Science,no
+2317,10014N,PLTW Computer Science Applications,no
+2318,10015N,PLTW Computer Science and Software Engineering,no
+2319,10016N,PLTW Cybersecurity,no
+2320,10017N,PLTW Simulation and Modeling,no
+2321,10018N,PLTW Artificial Intelligence,no
+2322,10049N,Computer Literacy-Other,no
+2323,10201N,Web Page Design,no
+2324,10202N,Computer Graphics,no
+2325,10203N,Interactive Media,no
+2326,10247N,Media Technology-Independent Study,no
+2327,10997N,Information Technology-Independent Study,no
+2328,10999N,Information Technology-Other,no
+2329,11001N,Introduction to Communication,no
+2330,11002N,Communication Technology,no
+2331,11003N,Particular Topics in Communication,no
+2332,11047N,Communication-Independent Study,no
+2333,11049N,Communication-Other,no
+2334,11051N,Audio/Visual Production,no
+2335,11052N,Commercial Photography,no
+2336,11053N,Photographic Laboratory and Darkroom,no
+2337,11054N,Photo Imaging,no
+2338,11055N,Video,no
+2339,11056N,Particular Topics in Audio/Video Technology and Film,no
+2340,11099N,Audio/Video Technology and Film-Other,no
+2341,11101N,Journalism,no
+2342,11102N,Photojournalism,no
+2343,11103N,Broadcasting Technology,no
+2344,11104N,Publication Production,no
+2345,11105N,Particular Topics in Journalism and Broadcasting,no
+2346,11147N,Journalism and Broadcasting-Independent Study,no
+2347,11149N,Journalism and Broadcasting-Other,no
+2348,11151N,Digital Media Technology,no
+2349,11152N,Desktop Publishing,no
+2350,11159N,Particular Topics in Printing Technology and Production,no
+2351,11197N,Printing Technology-Independent Study,no
+2352,11199N,Printing Technology-Other,no
+2353,11997N,Communication and Audio/Video Technology-Independent Study,no
+2354,11999N,Communication and Audio/Video Technology-Other,no
+2355,12001N,Business/Office Career Exploration,no
+2356,12005N,Keyboarding,no
+2357,12006N,Word Processing,no
+2358,12008N,Particular Topics in Administration,no
+2359,12047N,Administration-Independent Study,no
+2360,12051N,Introductory Business,no
+2361,12097N,Management-Independent Study,no
+2362,12101N,Banking and Finance,no
+2363,12147N,Finance-Independent Study,no
+2364,12151N,Marketing Career Exploration,no
+2365,12152N,Marketing-Comprehensive,no
+2366,12197N,Marketing-Independent Study,no
+2367,12997N,Business and Marketing-Independent Study,no
+2368,12999N,Business and Marketing-Other,no
+2369,13001N,Exploration of Manufacturing Occupations,no
+2370,13003N,Industrial Arts,no
+2371,13052N,Material and Processes,no
+2372,13997N,Manufacturing-Independent Study,no
+2373,13999N,Manufacturing-Other,no
+2374,14001N,Exploration of Health Care Occupations,no
+2375,14002N,Health Care Occupations-Comprehensive,no
+2376,14997N,Health Care Sciences-Independent Study,no
+2377,14999N,Health Care Sciences-Other,no
+2378,15001N,Exploration of Public Service Careers,no
+2379,15997N,"Public, Protective, and Government Service-Independent Study",no
+2380,15999N,"Public, Protective, and Government Service-Other",no
+2381,16001N,Exploration of Hospitality Careers,no
+2382,16997N,Hospitality and Tourism-Independent Study,no
+2383,16999N,Hospitality and Tourism-Other,no
+2384,17001N,Construction Careers Exploration,no
+2385,17002N,Construction-Comprehensive,no
+2386,17997N,Architecture and Construction-Independent study,no
+2387,17999N,Architecture and Construction-Other,no
+2388,18001N,Introduction to Agriculture and Natural Resources,no
+2389,18002N,Agriculture-Comprehensive,no
+2390,18003N,Agriculture and Natural Resources-Comprehensive,no
+2391,18997N,"Agriculture, Food, and Natural Resources-Independent Study",no
+2392,18999N,"Agriculture, Food, and Natural Resources-Other",no
+2393,19001N,Human Services Career Exploration,no
+2394,19253N,Nutrition and Wellness,no
+2395,19256N,Clothing/Sewing,no
+2396,19261N,Human Growth and Development,no
+2397,19298N,Family and Consumer Sciences-Workplace Experience,no
+2398,19997N,Human Services-Independent Study,no
+2399,19999N,Human Services-Other,no
+2400,20001N,"Exploration of Transportation, Distribution and Logistics",no
+2401,20997N,"Transportation, Distribution and Logistics-Independent Study",no
+2402,20999N,"Transportation, Distribution and Logistics-Other",no
+2403,21001N,Pre-Engineering Technology,no
+2404,21002N,Engineering Applications,no
+2405,21003N,Engineering Technology,no
+2406,21004N,Principles of Engineering,no
+2407,21005N,Engineering-Comprehensive,no
+2408,21006N,Engineering Design,no
+2409,21009N,Robotics,no
+2410,21017N,PLTW Introduction to Engineering Design,no
+2411,21018N,PLTW Principles of Engineering,no
+2412,21019N,PLTW Aerospace Engineering,no
+2413,21020N,PLTW Biological Engineering,no
+2414,21021N,PLTW Civil Engineering and Architecture,no
+2415,21022N,PLTW Computer Integrated Manufacturing,no
+2416,21023N,PLTW Digital Electronics,no
+2417,21047N,Engineering-Independent Study,no
+2418,21049N,Engineering-Other,no
+2419,21051N,Technological Literacy,no
+2420,21062N,"IB Technology, Middle Years Program",no
+2421,21097N,Technology-Independent Study,no
+2422,21102N,Drafting-General,no
+2423,21147N,Drafting-Independent Study,no
+2424,21997N,Engineering and Technology-Independent Study,no
+2425,21999N,Engineering and Technology-Other,no
+2426,22001N,Standardized Test Preparation,no
+2427,22002N,State Test Preparation,no
+2428,22003N,Study Skills,no
+2429,22004N,Dropout Prevention Program,no
+2430,22005N,Tutorial,no
+2431,22006N,Study Hall,no
+2432,22007N,Advancement Via Individual Determination (AVID),no
+2433,22101N,Leadership,no
+2434,22102N,School Orientation,no
+2435,22103N,School Governance,no
+2436,22104N,Community Service,no
+2437,22105N,Values Clarification,no
+2438,22106N,Seminar,no
+2439,22107N,Peer Counseling,no
+2440,22108N,"IB Creativity, Action, Service",no
+2441,22109N,IB Extended Essay,no
+2442,22111N,IB Approaches to Learning,no
+2443,22151N,Career Exploration,no
+2444,22152N,Employability Skills,no
+2445,22250N,Exploratory,no
+2446,22260N,"IB Personal Project, Middle Years Program",no
+2447,22995N,Miscellaneous-Aide,no
+2448,22999N,Miscellaneous-Other,no
+2449,23001N,Early Childhood Education,no
+2450,23002N,Pre-kindergarten,no
+2451,23003N,Kindergarten,no
+2452,23004N,Grade 1,no
+2453,23005N,Grade 2,no
+2454,23006N,Grade 3,no
+2455,23007N,Grade 4,no
+2456,23008N,Grade 5,no
+2457,23009N,Grade 6,no
+2458,23010N,Grade 7,no
+2459,23011N,Grade 8,no
+2460,23012N,Prior-to-Secondary Education,no
+2461,23041N,IB Primary Years Program,no
+2462,3163,AP Physics C: Electricity and Magnetism,no
+2463,3164,AP Physics C: Mechanics,no
+2464,3165,AP Physics 1,no
+2465,3166,AP Physics 2,no
+2466,5006,Dance Survey,no
+2467,5007,Dance Improvisation,no
+2468,5008,World/Cultural Dance,no
+2469,5009,Technical Theater for Dance,no
+2470,5010,Social Dance,no
+2471,5011,Dance Composition/Composition Seminar,no
+2472,5060,Musical Theater,no
+2473,5061,Theatrical Production and Management,no
+2474,5062,IB Theatre,no
+2475,5120,Strings,no
+2476,5121,Contemporary Vocal Ensemble,no
+2477,5122,Culturally Influenced Ensemble,no
+2478,5123,Recording and Production,no
+2479,5124,Technology/Electronic Music,no
+2480,5174,AP Studio Art-Two-Dimensional,no
+2481,5175,AP Studio Art-Three-Dimensional,no
+2482,5176,Calligraphy/Lettering,no
+2483,5177,Animation,no
+2484,5190,Fashion Design,no
+2485,5191,Industrial Design,no
+2486,5192,Architectural Design,no
+2487,5193,Interior Design,no
+2488,6152,AP Italian Language and Culture,no
+2489,6412,AP Chinese Language and Culture,no
+2490,6432,AP Japanese Language and Culture,no
+2491,10011,Computer Science Principles,yes
+2492,10012,Exploring Computer Science,yes
+2493,10112,Local Area Networking,no
+2494,10205,Computer Gaming and Design,yes
+2495,10206,Mobile Applications,yes
+2496,10301,Computer Forensics,yes
+2497,10302,Cyber Crime,no
+2498,11004,Social Media,no
+2499,11106,Emerging Technologies in Journalism,no
+2500,11107,Radio Production,no
+2501,12060,Business Ethics,no
+2502,12108,Cost Accounting,no
+2503,12109,Income Tax Accounting,no
+2504,12110,Payroll Accounting,no
+2505,12111,Particular Topics in Accounting,no
+2506,12168,Marketing -Commodities,no
+2507,12169,Social Media Marketing,no
+2508,13303,Industrial Maintenance,no
+2509,14003,Medical Law and Ethics,no
+2510,14156,Medical Coding and Transcription,no
+2511,14157,Health Informatics and Data Management,no
+2512,14255,Biomedical Innovation,no
+2513,15054,Law Enforcement,no
+2514,15055,Forensic Science,no
+2515,15056,Crime Scene Management,no
+2516,15057,Criminal Law and Procedures,no
+2517,15058,Ethics in Criminal Justice,no
+2518,15104,Public Safety Telecommunications,no
+2519,16204,"Recreation, Amusement, and Attractions Management",no
+2520,17013,Commercial Construction,no
+2521,17014,Concrete Foundations,no
+2522,17015,Construction Estimating,no
+2523,17016,Construction Management,no
+2524,17017,Particular Topics in Construction,no
+2525,18004,Biological Applications in Agriculture,no
+2526,18005,Particular Topics in Environmental Service Systems,no
+2527,18107,Animal Nutrition,no
+2528,18108,Animal Genetics,no
+2529,18109,Integrated Pest Management,no
+2530,18205,Agriculture Computers and Technology,no
+2531,18310,Sustainable/Alternative Agriculture,no
+2532,18311,Viticulture,no
+2533,18406,Water Treatment,no
+2534,18506,Alternative Energy,no
+2535,19155,Instructional Technology,no
+2536,19301,Counseling and Mental Health,no
+2537,20055,Pilot Training,no
+2538,20119,Hybrid Engines,no
+2539,20120,Motorsports Technology,no
+2540,21016,Engineering Analysis,no
+2541,21057,Laser/Fiber Optics,no
+2542,21058,Geospatial Technology,no
+2543,21059,Modeling and Simulation Technology,no
+2544,21060,Wind Energy,no
+2545,21061,Wind Turbine Construction and Operation,no
+2546,22110,AP Seminar,no
+2547,1008,English as a Second Language,no
+2548,1197,Speech-Independent Study,no
+2549,1203,English-Test Preparation,no
+2550,2003,Particular Topics in Foundation Math,no
+2551,2124,AP Calculus AB,no
+2552,2125,AP Calculus BC,no
+2553,2131,IB Mathematical Studies,no
+2554,2132,IB Mathematics,no
+2555,2134,IB Further Mathematics-HL,no
+2556,2993,Mathematics-Test Preparation,no
+2557,3047,Earth Science-Independent Study,no
+2558,3056,AP Biology,no
+2559,3057,IB Biology,no
+2560,3097,Biology-Independent Study,no
+2561,3106,AP Chemistry,no
+2562,3107,IB Chemistry,no
+2563,3153,Principles of Technology,no
+2564,3155,AP Physics B,no
+2565,3156,AP Physics C,no
+2566,3157,IB Physics,no
+2567,3206,IB Design Technology,no
+2568,3208,IB Environmental Systems and Societies,no
+2569,4003,IB Geography,no
+2570,4054,IB History,no
+2571,4066,IB Islamic History,no
+2572,4107,U.S. Ethnic Studies,no
+2573,4158,AP Comparative Government and Politics,no
+2574,4159,AP Government,no
+2575,4205,AP Economics,no
+2576,4206,IB Economics,no
+2577,4253,IB Social and Cultural Anthropology,no
+2578,4257,IB Psychology,no
+2579,4304,IB Theory of Knowledge,no
+2580,4309,IB Philosophy,no
+2581,5001,Dance Technique,no
+2582,5002,Dance Repertory,no
+2583,5003,General Dance,no
+2584,5004,Dance History and Appreciation,no
+2585,5005,Dance-Choreography,no
+2586,5051,Introduction to Theater,no
+2587,5052,Theater Arts,no
+2588,5053,Theater-Comprehensive,no
+2589,5055,Theater-Acting/Performance,no
+2590,5056,Theater-Stagecraft,no
+2591,5057,Theater-Directing,no
+2592,5058,Playwriting and Screenwriting,no
+2593,5101,General Band,no
+2594,5104,Orchestra,no
+2595,5105,Contemporary Instrumental Ensemble,no
+2596,5106,Small Ensemble,no
+2597,5107,Piano,no
+2598,5108,Guitar,no
+2599,5109,Individual Technique-Instrumental Music,no
+2600,5110,Chorus,no
+2601,5111,Vocal Ensemble,no
+2602,5112,Individual Technique-Vocal Music,no
+2603,5115,IB Music,no
+2604,5116,Music History/Appreciation,no
+2605,5117,Music History,no
+2606,5118,Music Appreciation,no
+2607,5119,Composition/Songwriting,no
+2608,5151,Art Appreciation,no
+2609,5152,Art History,no
+2610,5153,AP Art History,no
+2611,5154,Visual Art-Comprehensive,no
+2612,5155,Visual Arts-Drawing/Painting,no
+2613,5156,Visual Arts-Drawing,no
+2614,5157,Visual Arts-Painting,no
+2615,5158,Visual Arts-Sculpture,no
+2616,5159,Ceramics/Pottery,no
+2617,5160,Printmaking/Graphics,no
+2618,5161,Printmaking,no
+2619,5162,Visual Communications Design,no
+2620,5163,Advertising Design,no
+2621,5164,Fibers and Textile Design,no
+2622,5165,Crafts,no
+2623,5166,Jewelry,no
+2624,5167,Photography,no
+2625,5168,Cinematography/Video Production,no
+2626,5169,Multimedia Art,no
+2627,5170,Art Portfolio,no
+2628,5172,AP Studio Art-Drawing,no
+2629,5173,IB Art/Design,no
+2630,5197,Visual Art-Independent Study,no
+2631,5201,Interdisciplinary Arts,no
+2632,6110,IB Language A: Literature-Spanish,no
+2633,6111,IB Language B-Spanish,no
+2634,6112,AP Spanish Language and Culture,no
+2635,6113,AP Spanish Literature and Culture,no
+2636,6130,IB Language A: Literature-French,no
+2637,6131,IB Language B-French,no
+2638,6132,AP French Language  and Culture,no
+2639,6150,IB Language A: Literature-Italian,no
+2640,6151,IB Language B-Italian,no
+2641,6170,IB Language A: Literature-Portugese,no
+2642,6171,IB Language B-Portuguese,no
+2643,6190,IB Language A: Literature-Romance/Italic Language,no
+2644,6191,IB Language B-Romance/Italic Language,no
+2645,6210,IB Language A: Literature-German,no
+2646,6211,IB Language B-German,no
+2647,6212,AP German Language and Culture,no
+2648,6250,IB Language A: Literature-Germanic Language,no
+2649,6251,IB Language B-Germanic Language,no
+2650,6270,IB Language A: Literature-Celtic Language,no
+2651,6271,IB Language B-Celtic Language,no
+2652,6290,IB Language A: Literature-Greek,no
+2653,6291,IB Language B: Literature-Greek,no
+2654,6410,IB Language A: Literature-Chinese,no
+2655,6411,IB Language B-Chinese,no
+2656,6430,IB Language A: Literature-Japanese,no
+2657,6431,IB Language B-Japanese,no
+2658,6450,IB Language A: Literature-Korean,no
+2659,6451,IB Language B-Korean,no
+2660,6490,IB Language A: Literature-East Asian Language,no
+2661,6491,IB Language B-East Asian Language,no
+2662,6510,IB Language A: Literature-Vietnamese,no
+2663,6511,IB Language B-Vietnamese,no
+2664,6530,IB Language A: Literature-Filipino,no
+2665,6531,IB Language B-Filipino,no
+2666,6590,IB Language A: Literature-Southeast Asian Language,no
+2667,6591,IB Language B-Southeast Asian Language,no
+2668,6610,IB Language A: Literature-Russian,no
+2669,6611,IB Language B-Russian,no
+2670,6650,IB Language A: Literature-Balto-Slavic Language,no
+2671,6651,IB Language B-Balto-Slavic Language,no
+2672,6670,IB Language A: Literature-Turkic/Ural-Altaic Language,no
+2673,6671,IB Language B-Turkic/Ural-Altaic Language,no
+2674,6690,IB Language A: Literature-Iranian/Persian,no
+2675,6691,IB Language B-Iranian/Persian Language,no
+2676,6710,IB Language A: Literature-Hebrew,no
+2677,6711,IB Language B-Hebrew,no
+2678,6730,IB Language A: Literature-Arabic,no
+2679,6731,IB Language B-Arabic,no
+2680,6770,IB Language A: Literature-Swahili,no
+2681,6771,IB Language B-Swahili,no
+2682,6790,IB Language A: Literature-Non-Semitic African Language,no
+2683,6791,IB Language B-Non-Semitic African Language,no
+2684,6830,IB Language A: Literature-American Indian Language,no
+2685,6831,IB Language B-American Indian Language,no
+2686,6850,IB Language A: Literature-Indic Language,no
+2687,6851,IB Language B-Indic Language,no
+2688,6870,IB Language A: Literature-Malayo-Polynesian Language,no
+2689,6871,IB Language B-Malayo-Polynesian Language,no
+2690,8002,Team Sports,no
+2691,8014,Physical Education Equivalent,no
+2692,8015,Off-Campus Sports,no
+2693,8016,Lifetime Fitness Education,no
+2694,8057,Health and Life Management,no
+2695,10001,Introduction to Computer Technology,no
+2696,10004,Computer Applications,no
+2697,10005,Business Computer Applications,no
+2698,10006,Telecommunications,no
+2699,10101,Network Technology,yes
+2700,10102,Networking Systems,yes
+2701,10104,Router Basics,no
+2702,10106,Wide Area Telecommunications and Networking,no
+2703,10107,Wireless Networks,no
+2704,10108,Network Security,yes
+2705,10109,Essentials of Network Operating Systems,yes
+2706,10151,Business Programming,no
+2707,10152,Computer Programming,yes
+2708,10154,C++ Programming,yes
+2709,10156,Computer Programming-Other Language,yes
+2710,10157,AP Computer Science A,yes
+2711,10159,IB Computer Science,yes
+2712,10201,Web Page Design,yes
+2713,10202,Computer Graphics,no
+2714,10203,Interactive Media,yes
+2715,10252,Computer Maintenance,no
+2716,10995,Information Technology-Aide,no
+2717,10997,Information Technology-Independent Study,no
+2718,10998,Information Technology-Workplace Experience,no
+2719,10999,Information Technology-Other,no
+2720,11001,Introduction to Communication,no
+2721,11052,Commercial Photography,no
+2722,11101,Journalism,no
+2723,11102,Photojournalism,no
+2724,12001,Business/Office Career Exploration,no
+2725,12002,Office Procedures-Comprehensive,no
+2726,12004,Office Services,no
+2727,12006,Word Processing,no
+2728,12007,Recordkeeping,no
+2729,12009,Business Communications,no
+2730,12051,Introductory Business,no
+2731,12053,Entrepreneurship,no
+2732,12057,Human Resources and Labor Relations,no
+2733,12058,Human Resources Management,no
+2734,12059,IB Business Management,no
+2735,12102,Banking,no
+2736,12104,Accounting,no
+2737,12106,Risk Management and Insurance,no
+2738,12107,Securities and Investments,no
+2739,12151,Marketing Career Exploration,no
+2740,12152,Marketing-Comprehensive,no
+2741,12153,Marketing-Fashion,no
+2742,12154,Marketing-Real Estate,no
+2743,12155,Marketing-Transportation,no
+2744,12156,Marketing-Food/Beverage Industry,no
+2745,12157,Marketing-Insurance,no
+2746,12158,Marketing-Floristry,no
+2747,12159,Marketing-Hospitality/Tourism,no
+2748,12160,Marketing-Merchandising,no
+2749,12163,Sports and Entertainment Marketing,no
+2750,12167,Marketing-Other Specialization,no
+2751,13001,Exploration of Manufacturing Occupations,no
+2752,13002,Manufacturing-Comprehensive,no
+2753,13003,Industrial Arts,no
+2754,13004,Industrial Safety/First Aid,no
+2755,13052,Material and Processes,no
+2756,13053,Metal and Wood Processing/Production,no
+2757,13054,Wood Processing/Production,no
+2758,13055,Metal Processing/Production,no
+2759,13056,Plastics Processing/Production,no
+2760,13057,Ceramic Processing/Production,no
+2761,13102,Electro-Mechanical Systems,no
+2762,13103,Product Development,no
+2763,13201,Metalwork Occupations,no
+2764,13202,Metalworking,no
+2765,13203,Machining,no
+2766,13207,Welding,no
+2767,13302,Equipment Maintenance and Repair,no
+2768,14055,Emergency Medical Technology,no
+2769,14062,Sports Medicine,no
+2770,14104,Phlebotomy,no
+2771,15001,Exploration of Public Service Careers,no
+2772,15051,Criminal Justice,no
+2773,15052,Corrections,no
+2774,15053,Particular Topics in Law Enforcement,no
+2775,15102,Security Services,no
+2776,15201,Public Administration,no
+2777,15202,Community Protection,no
+2778,16053,Food Service,no
+2779,16054,Nutrition and Food Preparation,no
+2780,17001,Construction Careers Exploration,no
+2781,17009,Building Repair and Maintenance,no
+2782,17051,Air Conditioning,no
+2783,17053,Heating,no
+2784,18001,Introduction to Agriculture and Natural Resources,no
+2785,18002,Agriculture-Comprehensive,no
+2786,18003,Agriculture and Natural Resources-Comprehensive,no
+2787,18051,Plant Systems/Science,no
+2788,18052,Horticultural Science,no
+2789,18053,Ornamental Horticulture,no
+2790,18054,Turf and Landscape Management,no
+2791,18055,Soil Science,no
+2792,18101,Animal Production/Science,no
+2793,18102,Small Animal Care,no
+2794,18103,Large Animal Care,no
+2795,18104,Equine Science,no
+2796,18105,Veterinary Science,no
+2797,18301,Agricultural Production,no
+2798,18401,Agriculture Mechanics/Equipment/Structures,no
+2799,18402,Agriculture Mechanics and Equipment,no
+2800,18403,Agriculture Structures,no
+2801,18404,Agricultural Metal Fabrication Technology,no
+2802,18501,Wildlife and Recreation Management,no
+2803,18502,Forestry Management,no
+2804,18504,Natural Resources Management,no
+2805,19001,Human Services Career Exploration,no
+2806,19051,Child Care,no
+2807,19052,Child Development,no
+2808,19053,Elder Care,no
+2809,19054,Child and Adult Care Services,no
+2810,19153,Teaching-Early Childhood Education,no
+2811,19205,Home Furnishing,no
+2812,21009,Robotics,no
+2813,21053,Emerging Technologies,no
+2814,21102,Drafting-General,no
+2815,22004,Dropout Prevention Program,no
+2816,1007,IB Language A: Literature-English,no
+2817,19251,Family and Consumer Sciences-Comprehensive,no
+2818,19252,Food Preparation and Health Management,no
+2819,19254,Food Science,no
+2820,19255,Child Development/Parenting,no
+2821,19256,Clothing/Sewing,no
+2822,19257,Life Skills,no
+2823,19258,Personal and Career Readiness,no
+2824,19259,Family and Interpersonal Relationships,no
+2825,19260,Personal Development ,no
+2826,19262,Consumer Economics/Personal Finance,no
+2827,19263,Home Environments and Design,no
+2828,19295,Family and Consumer Sciences-Aide,no
+2829,19297,Family and Consumer Sciences-Independent Study,no
+2830,19299,Family and Consumer Sciences-Other,no
+2831,19251N,Family and Consumer Sciences-Comprehensive,no
+2832,19252N,Food Preparation and Health Management,no
+2833,19254N,Food Science,no
+2834,19255N,Child Development/Parenting,no
+2835,19257N,Life Skills,no
+2836,19258N,Personal and Career Readiness,no
+2837,19259N,Family and Interpersonal Relationships,no
+2838,19260N,Personal Development,no
+2839,19262N,Consumer Economics/Personal Finance,no
+2840,19263N,Home Environments and Design,no
+2841,19295N,Family and Consumer Sciences-Aide,no
+2842,19297N,Family and Consumer Sciences-Independent Study,no
+2843,19299N,Family and Consumer Sciences-Other,no
+2844,2059,Intensified Algebra,no
+2845,2001,Informal Mathematics 02001,no
+2846,2002,General Math 02002,no
+2847,2047,Foundation Math-Independent Study 02047,no
+2848,2049,Foundation Math-Other 02049,no
+2849,2051,Pre-Algebra 02051,no
+2850,2057,Algebra III 02057,no
+2851,2101,Number Theory 02101,no
+2852,2104,Math Analysis 02104,no
+2853,2105,Trigonometry/Math Analysis 02105,no
+2854,2108,Math Analysis/Analytic Geometry 02108,no
+2855,2110,Pre-Calculus 02110,no
+2856,2121,Calculus 02121,no
+2857,2151,General Applied Math 02151,no
+2858,2152,Occupationally Applied Math 02152,no
+2859,2153,Technical Math 02153,no
+2860,2154,Business Math 02154,no
+2861,2155,Business Math with Algebra 02155,no
+2862,2156,Computer Math with Algebra 02156,no
+2863,2157,Consumer Math 02157,no
+2864,2207,Probability and Statistics-Independent Study 02207,no
+2865,2991,History of Math 02991,no
+2866,3049,Earth Science-Other 03049,no
+2867,3060,Microbiology 03060,no
+2868,3202,Unified Science 03202,no
+2869,4065,Particular Topics in World History 04065,no
+2870,4102,Early U.S. History 04102,no
+2871,4160,Principles of Democracy 04160,no
+2872,4161,Civics 04161,no
+2873,8013,Specific Sports Activities 08013,no
+2874,10008,Particular Topics in Computer Literacy 10008,no
+2875,10055,Particular Topics in Management Information Systems 10055,no
+2876,10111,Particular Topics in Networking Systems 10111,no
+2877,10256,Particular Topics in Information Support and Services 10256,no
+2878,11003,Particular Topics in Communication 11003,no
+2879,11056,Particular Topics in Audio/Video Technology and Film 11056,no
+2880,11105,Particular Topics in Journalism and Broadcasting 11105,no
+2881,11159,Particular Topics in Printing Technology and Production 11159,no
+2882,12055,Business Principles and Management 12055,no
+2883,12101,Banking and Finance 12101,no
+2884,12105,Business Economics 12105,no
+2885,13058,Particular Topics in Processing and Production 13058,no
+2886,13209,Particular Topics in Metalwork 13209,no
+2887,14063,Particular Topics in Therapeutic Services 14063,no
+2888,14105,Particular Topics in Diagnostic Services 14105,no
+2889,14155,Particular Topics in Health Information 14155,no
+2890,14204,Particular Topics in Support Services 14204,no
+2891,14254,Particular Topics in Health Sciences 14254,no
+2892,19107,Particular Topics in Cosmetology 19107,no
+2893,19154,Particular Topics in Education 19154,no
+2894,19207,Particular Topics in Apparel and Furnishings 19207,no
+2895,21015,Particular Topics in Engineering 21015,no
+2896,21056,Particular Topics in Technology Applications 21056,no
+2897,01012N,IB Literature and Performance,no
+2898,01026N,Language Arts (early childhood education),no
+2899,01032N,Language Arts (grade 4),no
+2900,01033N,Language Arts (grade 5),no
+2901,01034N,Language Arts (grade 6),no
+2902,01035N,Language Arts (grade 7),no
+2903,01036N,Language Arts (grade 8),no
+2904,01037N,Language Arts-General,no
+2905,01038N,Reading (early childhood education),no
+2906,01039N,Reading (pre-kindergarten),no
+2907,01042N,Reading (grade 2),no
+2908,01045N,Reading (grade 5),no
+2909,01046N,Reading (grade 6),no
+2910,01047N,Reading (grade 7),no
+2911,01048N,Reading (grade 8),no
+2912,01049N,Reading-General,no
+2913,01053N,Literature,no
+2914,01066N,Strategic Reading,no
+2915,01067N,Assisted Reading,no
+2916,01068N,Corrective Reading,no
+2917,01103N,Composition,no
+2918,01128N,Writing (early childhood education),no
+2919,01129N,Writing (pre-kindergarten),no
+2920,01132N,Writing (grade 2),no
+2921,01135N,Writing (grade 5),no
+2922,01136N,Writing (grade 6),no
+2923,01137N,Writing (grade 7),no
+2924,01138N,Writing (grade 8),no
+2925,01139N,Writing-General,no
+2926,02001N,Informal Mathematics,no
+2927,02002N,General Mathematics,no
+2928,02003N,Particular Topics in Foundation Mathematics,no
+2929,02039N,Mathematics-General,no
+2930,02047N,Foundation Mathematics Independent Study,no
+2931,02049N,Foundation Mathematics Other,no
+2932,02051N,Pre-Algebra,no
+2933,02157N,Consumer Mathematics,no
+2934,02991N,History of Mathematics,no
+2935,03009N,Particular Topics in Earth Science,no
+2936,03012N,Energy and the Environment,no
+2937,03049N,Earth Science Other,no
+2938,03066N,PLTW Principles of Biomedical Science,no
+2939,03067N,PLTW Human Body Systems,no
+2940,03068N,PLTW Medical Interventions,no
+2941,03153N,Principles of Technology,no
+2942,03202N,Unified Science,no
+2943,03239N,Science-General,no
+2944,04062N,World People Studies,no
+2945,04161N,Civics,no
+2946,04171N,"IB Individuals and Societies, Middle Years Program",no
+2947,04439N,Social Studies-General,no
+2948,05001N,Dance Technique,no
+2949,05003N,General Dance,no
+2950,05008N,World/Cultural Dance,no
+2951,05039N,Dance-General,no
+2952,05052N,Theater Arts,no
+2953,05053N,Theater-Comprehensive,no
+2954,05079N,Drama-General,no
+2955,05102N,Concert Band,no
+2956,05103N,Marching Band,no
+2957,05104N,Orchestra,no
+2958,05105N,Contemporary Instrumental Ensemble,no
+2959,05106N,Small Ensemble,no
+2960,05110N,Chorus,no
+2961,05139N,Music-General,no
+2962,05189N,Art-General,no
+2963,05194N,IB Film,no
+2964,07001N,Religious Foundations,no
+2965,07015N,Faith and Lifestyle,no
+2966,08013N,Specific Sports Activities,no
+2967,08039N,Physical Education-General,no
+2968,10008N,Particular Topics in Computer Literacy,no
+2969,10010N,Computer Literacy,no
+2970,10013N,PLTW Introduction to Computer Science,no
+2971,10014N,PLTW Computer Science Applications,no
+2972,10015N,PLTW Computer Science and Software Engineering,no
+2973,10016N,PLTW Cybersecurity,no
+2974,10017N,PLTW Simulation and Modeling,no
+2975,10018N,PLTW Artificial Intelligence,no
+2976,11003N,Particular Topics in Communication,no
+2977,11056N,Particular Topics in Audio/Video Technology and Film,no
+2978,11101N,Journalism,no
+2979,11105N,Particular Topics in Journalism and Broadcasting,no
+2980,11159N,Particular Topics in Printing Technology and Production,no
+2981,12051N,Introductory Business,no
+2982,19253N,Nutrition and Wellness,no
+2983,21017N,PLTW Introduction to Engineering Design,no
+2984,21018N,PLTW Principles of Engineering,no
+2985,21019N,PLTW Aerospace Engineering,no
+2986,21020N,PLTW Biological Engineering,no
+2987,21021N,PLTW Civil Engineering and Architecture,no
+2988,21022N,PLTW Computer Integrated Manufacturing,no
+2989,21023N,PLTW Digital Electronics,no
+2990,21062N,"IB Design, Middle Years Program",no
+2991,22101N,Leadership,no
+2992,22102N,School Orientation,no
+2993,22108N,"IB Creativity, Action, Service",no
+2994,22260N,"IB Personal Project, Middle Years Program",no
+2995,23012N,Prior-to-Secondary Education,no
+2996,3163,AP Physics C: Electricity and Magnetism,no
+2997,5008,World/Cultural Dance,no
+2998,14255,Biomedical Innovation,no
+2999,2003,Particular Topics in Foundation Math,no
+3000,2124,AP Calculus AB,no
+3001,2125,AP Calculus BC,no
+3002,3153,Principles of Technology,no
+3003,3156,AP Physics C,no
+3004,3208,IB Environmental Systems and Societies,no
+3005,4054,IB History,no
+3006,4158,AP Comparative Government and Politics,no
+3007,4205,AP Economics,no
+3008,4253,IB Social and Cultural Anthropology,no
+3009,4304,IB Theory of Knowledge,no
+3010,5001,Dance Technique,no
+3011,5003,General Dance,no
+3012,5052,Theater Arts,no
+3013,5053,Theater-Comprehensive,no
+3014,5055,Theater-Acting/Performance,no
+3015,5056,Theater-Stagecraft,no
+3016,5057,Theater-Directing,no
+3017,5104,Orchestra,no
+3018,5105,Contemporary Instrumental Ensemble,no
+3019,5106,Small Ensemble,no
+3020,5110,Chorus,no
+3021,5115,IB Music,no
+3022,5116,Music History/Appreciation,no
+3023,5159,Ceramics/Pottery,no
+3024,5164,Fibers and Textile Design,no
+3025,5173,IB Art/Design,no
+3026,10157,AP Computer Science A,yes
+3027,11101,Journalism,no
+3028,12051,Introductory Business,no
+3029,12102,Banking,no
+3030,16054,Nutrition and Food Preparation,no
+3031,19054,Child and Adult Care Services,no
+3032,1069,Mythology,no
+3033,1204,English Grammar,no
+3034,2062,Integrated Mathematics I,no
+3035,2063,Integrated Mathematics II,no
+3036,2064,Integrated Mathematics III,no
+3037,2065,Integrated Mathematics IV,no
+3038,2136,Finite Mathematics,no
+3039,2137,Mathematical Modeling,no
+3040,2138,College Mathematics Preparation,no
+3041,2205,Statistics,no
+3042,3069,Nutrition Science,no
+3043,3214,Forensic Laboratory Science,no
+3044,4110,U.S. Wars and Military Conflicts,no
+3045,4169,IB Global Politics,no
+3046,4208,Microeconomics,no
+3047,4209,Macroeconomics,no
+3048,7018,Particular Topics in Religion,no
+3049,8018,Coaching,no
+3050,8019,Officiating,no
+3051,8113,Physical and Health Education General,no
+3052,8147,Physical and Health Education Independent Study,no
+3053,8148,Physical and Health Education Workplace Experience,no
+3054,8149,Physical and Health Education Other,no
+3055,10019,AP Computer Science Principles,yes
+3056,21024,PLTW Environmental Sustainability,no
+3057,22112,AP Research,no
+3058,22113,IB Personal and Professional Skills,no
+3059,22115,Academic Competition,no
+3060,24039,World Language General,no
+3061,24040,Exploration of Multiple World Languages,no
+3062,24052,Spanish I,no
+3063,24053,Spanish II,no
+3064,24054,Spanish III,no
+3065,24055,Spanish IV,no
+3066,24056,Spanish V,no
+3067,24057,Spanish for Native Speakers,no
+3068,24058,Spanish Field Experience,no
+3069,24059,Spanish Conversation and Culture,no
+3070,24060,Spanish Literature,no
+3071,24061,Particular Topics in Spanish,no
+3072,24062,IB Language A: Literature Spanish,no
+3073,24063,IB Language B Spanish,no
+3074,24064,AP Spanish Language and Culture,no
+3075,24065,AP Spanish Literature and Culture,no
+3076,24099,Spanish Other,no
+3077,24102,French I,no
+3078,24103,French II,no
+3079,24104,French III,no
+3080,24105,French IV,no
+3081,24106,French V,no
+3082,24107,French for Native Speakers,no
+3083,24108,French Field Experience,no
+3084,24109,French Conversation and Culture,no
+3085,24110,French Literature,no
+3086,24111,Particular Topics in French,no
+3087,24112,IB Language A: Literature French,no
+3088,24113,IB Language B French,no
+3089,24114,AP French Language and Culture,no
+3090,24149,French Other,no
+3091,24152,Italian I,no
+3092,24153,Italian II,no
+3093,24154,Italian III,no
+3094,24155,Italian IV,no
+3095,24156,Italian V,no
+3096,24157,Italian for Native Speakers,no
+3097,24158,Italian Field Experience,no
+3098,24159,Italian Conversation and Culture,no
+3099,24160,Italian Literature,no
+3100,24161,Particular Topics in Italian,no
+3101,24162,IB Language A: Literature Italian,no
+3102,24163,IB Language B Italian,no
+3103,24164,AP Italian Language and Culture,no
+3104,24199,Italian Other,no
+3105,24202,Portuguese I,no
+3106,24203,Portuguese II,no
+3107,24204,Portuguese III,no
+3108,24205,Portuguese IV,no
+3109,24206,Portuguese V,no
+3110,24207,Portuguese for Native Speakers,no
+3111,24208,Portuguese Field Experience,no
+3112,24209,Portuguese Conversation and Culture,no
+3113,24210,Portuguese Literature,no
+3114,24211,Particular Topics in Portuguese,no
+3115,24212,IB Language A: Literature Portuguese,no
+3116,24213,IB Language B Portuguese,no
+3117,24249,Portuguese Other,no
+3118,24252,German I,no
+3119,24253,German II,no
+3120,24254,German III,no
+3121,24255,German IV,no
+3122,24256,German V,no
+3123,24257,German for Native Speakers,no
+3124,24258,German Field Experience,no
+3125,24259,German Conversation and Culture,no
+3126,24260,German Literature,no
+3127,24261,Particular Topics in German,no
+3128,24262,IB Language A: Literature German,no
+3129,24263,IB Language B German,no
+3130,24264,AP German Language and Culture,no
+3131,24299,German Other,no
+3132,24302,Greek I,no
+3133,24303,Greek II,no
+3134,24304,Greek III,no
+3135,24305,Greek IV,no
+3136,24306,Greek V,no
+3137,24307,Greek for Native Speakers,no
+3138,24308,Greek Field Experience,no
+3139,24309,Greek Conversation and Culture,no
+3140,24310,Greek Literature,no
+3141,24311,Particular Topics in Greek,no
+3142,24312,IB Language A: Literature Greek,no
+3143,24316,"IB Language B (Greek), Middle Years Program",no
+3144,24339,Greek Other,no
+3145,24342,Latin I,no
+3146,24343,Latin II,no
+3147,24344,Latin III,no
+3148,24345,Latin IV,no
+3149,24346,Latin V,no
+3150,24351,Particular Topics in Latin,no
+3151,24352,IB Classical Languages Latin,no
+3152,24355,"AP Latin (Virgil, Catullus and Horace) ",no
+3153,24369,Latin Other,no
+3154,24372,Classical Greek I,no
+3155,24373,Classical Greek II,no
+3156,24374,Classical Greek III,no
+3157,24375,Classical Greek IV,no
+3158,24376,Classical Greek V,no
+3159,24381,Particular Topics in Classical Greek,no
+3160,24382,IB Classical Languages Greek,no
+3161,24389,Classical Greek Other,no
+3162,24391,Classical Hebrew I,no
+3163,24392,Classical Hebrew II,no
+3164,24393,Classical Hebrew III,no
+3165,24394,Classical Hebrew IV,no
+3166,24395,Classical Hebrew V,no
+3167,24396,Particular Topics in Classical Hebrew,no
+3168,24399,Classical Hebrew Other,no
+3169,24400,Chinese for Young Learners (prior-to-secondary),no
+3170,24402,Chinese I,no
+3171,24403,Chinese II,no
+3172,24404,Chinese III,no
+3173,24405,Chinese IV,no
+3174,24406,Chinese V,no
+3175,24407,Chinese for Native Speakers,no
+3176,24408,Chinese Field Experience,no
+3177,24409,Chinese Conversation and Culture,no
+3178,24410,Chinese Literature,no
+3179,24411,Particular Topics in Chinese,no
+3180,24412,IB Language A: Literature Chinese,no
+3181,24413,IB Language B Chinese,no
+3182,24414,AP Chinese Language and Culture,no
+3183,24449,Chinese Other,no
+3184,24452,Japanese I,no
+3185,24453,Japanese II,no
+3186,24454,Japanese III,no
+3187,24455,Japanese IV,no
+3188,24456,Japanese V,no
+3189,24457,Japanese for Native Speakers,no
+3190,24458,Japanese Field Experience,no
+3191,24459,Japanese Conversation and Culture,no
+3192,24460,Japanese Literature,no
+3193,24461,Particular Topics in Japanese,no
+3194,24462,IB Language A: Literature Japanese,no
+3195,24463,IB Language B Japanese,no
+3196,24464,AP Japanese Language and Culture,no
+3197,24499,Japanese Other,no
+3198,24502,Korean I,no
+3199,24503,Korean II,no
+3200,24504,Korean III,no
+3201,24505,Korean IV,no
+3202,24506,Korean V,no
+3203,24507,Korean for Native Speakers,no
+3204,24508,Korean Field Experience,no
+3205,24509,Korean Conversation and Culture,no
+3206,24510,Korean Literature,no
+3207,24511,Particular Topics in Korean,no
+3208,24512,IB Language A: Literature Korean,no
+3209,24517,IB Language A: Language and Literature Korean,no
+3210,24549,Korean Other,no
+3211,24552,Vietnamese I,no
+3212,24553,Vietnamese II,no
+3213,24554,Vietnamese III,no
+3214,24555,Vietnamese IV,no
+3215,24556,Vietnamese V,no
+3216,24557,Vietnamese for Native Speakers,no
+3217,24558,Vietnamese Field Experience,no
+3218,24559,Vietnamese Conversation and Culture,no
+3219,24560,Vietnamese Literature,no
+3220,24561,Particular Topics in Vietnamese,no
+3221,24562,IB Language A: Literature Vietnamese,no
+3222,24599,Vietnamese Other,no
+3223,24602,Filipino I,no
+3224,24603,Filipino II,no
+3225,24604,Filipino III,no
+3226,24605,Filipino IV,no
+3227,24606,Filipino V,no
+3228,24607,Filipino for Native Speakers,no
+3229,24608,Filipino Field Experience,no
+3230,24609,Filipino Conversation and Culture,no
+3231,24610,Filipino Literature,no
+3232,24611,Particular Topics in Filipino,no
+3233,24612,IB Language A: Literature Filipino,no
+3234,24649,Filipino Other,no
+3235,24652,Russian I,no
+3236,24653,Russian II,no
+3237,24654,Russian III,no
+3238,24655,Russian IV,no
+3239,24656,Russian V,no
+3240,24657,Russian for Native Speakers,no
+3241,24658,Russian Field Experience,no
+3242,24659,Russian Conversation and Culture,no
+3243,24660,Russian Literature,no
+3244,24661,Particular Topics in Russian,no
+3245,24662,IB Language A: Literature Russian,no
+3246,24663,IB Language B Russian,no
+3247,24699,Russian Other,no
+3248,24702,Hebrew I,no
+3249,24703,Hebrew II,no
+3250,24704,Hebrew III,no
+3251,24705,Hebrew IV,no
+3252,24706,Hebrew V,no
+3253,24707,Hebrew for Native Speakers,no
+3254,24708,Hebrew Field Experience,no
+3255,24709,Hebrew Conversation and Culture,no
+3256,24710,Hebrew Literature,no
+3257,24711,Particular Topics in Hebrew,no
+3258,24712,IB Language A: Literature Hebrew,no
+3259,24713,IB Language B Hebrew,no
+3260,24749,Hebrew Other,no
+3261,24752,Arabic I,no
+3262,24753,Arabic II,no
+3263,24754,Arabic III,no
+3264,24755,Arabic IV,no
+3265,24756,Arabic V,no
+3266,24757,Arabic for Native Speakers,no
+3267,24758,Arabic Field Experience,no
+3268,24759,Arabic Conversation and Culture,no
+3269,24760,Arabic Literature,no
+3270,24761,Particular Topics in Arabic,no
+3271,24762,IB Language A: Literature Arabic,no
+3272,24763,IB Language B Arabic,no
+3273,24799,Arabic Other,no
+3274,24802,Swahili I,no
+3275,24803,Swahili II,no
+3276,24804,Swahili III,no
+3277,24805,Swahili IV,no
+3278,24806,Swahili V,no
+3279,24807,Swahili for Native Speakers,no
+3280,24808,Swahili Field Experience,no
+3281,24809,Swahili Conversation and Culture,no
+3282,24810,Swahili Literature,no
+3283,24811,Particular Topics in Swahili,no
+3284,24812,IB Language A: Literature Swahili,no
+3285,24849,Swahili Other,no
+3286,24852,American Sign Language I,no
+3287,24853,American Sign Language II,no
+3288,24854,American Sign Language III,no
+3289,24855,American Sign Language IV,no
+3290,24856,American Sign Language V,no
+3291,24858,American Sign Language Field Experience,no
+3292,24861,Particular Topics in American Sign Language,no
+3293,24899,American Sign Language Other,no
+3294,24902,American Indian Language I,no
+3295,24903,American Indian Language II,no
+3296,24904,American Indian Language III,no
+3297,24905,American Indian Language IV,no
+3298,24906,American Indian Language V,no
+3299,24907,American Indian Language for Native Speakers,no
+3300,24908,American Indian Language Field Experience,no
+3301,24909,American Indian Language Conversation and Culture,no
+3302,24910,American Indian Literature,no
+3303,24911,Particular Topics in American Indian Language,no
+3304,24912,IB Language A: Literature American Indian Language,no
+3305,24913,IB Language B American Indian Language,no
+3306,24917,IB Language A: Language and Literature American Indian Language,no
+3307,24949,American Indian Language Other,no
+3308,24952,World Language (Other Language) I,no
+3309,24953,World Language (Other Language) II,no
+3310,24954,World Language (Other Language) III,no
+3311,24955,World Language (Other Language) IV,no
+3312,24956,World Language (Other Language) V,no
+3313,24957,World Language (Other Language) for Native Speakers,no
+3314,24958,World Language (Other Language) Field Experience,no
+3315,24959,World Language (Other Language) Conversation and Culture,no
+3316,24960,World Language (Other Language) Literature,no
+3317,24961,Particular Topics in World Language (Other Language),no
+3318,24962,IB Language A: Literature World Language (Other Language),no
+3319,24963,IB Language B World Language (Other Language),no
+3320,24967,IB Language A: Language and Literature (Other World Language),no
+3321,24968,IB Language Ab Initio (Other World Language),no
+3322,24989,World Language (Other Language) Other,no
+3323,24995,World Language and Literature Aide,no
+3324,24997,World Language and Literature Independent Study,no
+3325,24998,World Language and Literature Workplace Experience,no
+3326,24999,World Language and Literature Other,no
+3327,01069N,Mythology,no
+3328,01204N,English Grammar,no
+3329,02062N,Integrated Mathematics I,no
+3330,02063N,Integrated Mathematics II,no
+3331,02064N,Integrated Mathematics III,no
+3332,02065N,Integrated Mathematics IV,no
+3333,02136N,Finite Mathematics,no
+3334,02137N,Mathematical Modeling,no
+3335,02138N,College Mathematics Preparation,no
+3336,02205N,Statistics,no
+3337,03069N,Nutrition Science,no
+3338,03214N,Forensic Laboratory Science,no
+3339,04110N,U.S. Wars and Military Conflicts,no
+3340,04208N,Microeconomics,no
+3341,04209N,Macroeconomics,no
+3342,07018N,Particular Topics in Religion,no
+3343,08018N,Coaching,no
+3344,08019N,Officiating,no
+3345,08068N,Health Education (early childhood education),no
+3346,08069N,Health Education (pre-kindergarten),no
+3347,08070N,Health Education (kindergarten),no
+3348,08071N,Health Education (grade 1),no
+3349,08072N,Health Education (grade 2),no
+3350,08073N,Health Education (grade 3),no
+3351,08074N,Health Education (grade 4),no
+3352,08075N,Health Education (grade 5),no
+3353,08076N,Health Education (grade 6),no
+3354,08077N,Health Education (grade 7),no
+3355,08078N,Health Education (grade 8),no
+3356,08079N,Health Education General,no
+3357,08101N,Physical and Health Education,no
+3358,08102N,Physical and Health Education (early childhood education),no
+3359,08103N,Physical and Health Education (pre-kindergarten),no
+3360,08104N,Physical and Health Education (kindergarten),no
+3361,08105N,Physical and Health Education (grade 1),no
+3362,08106N,Physical and Health Education (grade 2),no
+3363,08107N,Physical and Health Education (grade 3),no
+3364,08108N,Physical and Health Education (grade 4),no
+3365,08109N,Physical and Health Education (grade 5),no
+3366,08110N,Physical and Health Education (grade 6),no
+3367,08111N,Physical and Health Education (grade 7),no
+3368,08112N,Physical and Health Education (grade 8),no
+3369,08113N,Physical and Health Education General,no
+3370,08147N,Physical and Health Education Independent Study,no
+3371,08148N,Physical and Health Education Workplace Experience,no
+3372,08149N,Physical and Health Education Other,no
+3373,21024N,PLTW Environmental Sustainability,no
+3374,22115N,Academic Competition,no
+3375,24039N,World Language General,no
+3376,24040N,Exploration of Multiple World Languages,no
+3377,24050N,Spanish for Young Learners (prior-to-secondary),no
+3378,24051N,Spanish Immersion (prior-to-secondary),no
+3379,24061N,Particular Topics in Spanish,no
+3380,24066N,"IB Language B (Spanish), Middle Years Program",no
+3381,24067N,IB Language A: Language and Literature Spanish,no
+3382,24068N,IB Language Ab Initio Spanish,no
+3383,24099N,Spanish Other,no
+3384,24100N,French for Young Learners (prior-to-secondary),no
+3385,24101N,French Immersion (prior-to-secondary),no
+3386,24111N,Particular Topics in French,no
+3387,24116N,"IB Language B (French), Middle Years Program",no
+3388,24117N,IB Language A: Language and Literature French,no
+3389,24118N,IB Language Ab Initio French,no
+3390,24149N,French Other,no
+3391,24150N,Italian for Young Learners (prior-to-secondary),no
+3392,24151N,Italian Immersion (prior-to-secondary),no
+3393,24157N,Italian for Native Speakers,no
+3394,24161N,Particular Topics in Italian,no
+3395,24166N,"IB Language B (Italian), Middle Years Program",no
+3396,24167N,IB Language A: Language and Literature Italian,no
+3397,24168N,IB Language Ab Initio Italian,no
+3398,24199N,Italian Other,no
+3399,24200N,Portuguese for Young Learners (prior-to-secondary),no
+3400,24201N,Portuguese Immersion (prior-to-secondary),no
+3401,24211N,Particular Topics in Portuguese,no
+3402,24216N,"IB Language B (Portuguese), Middle Years Program",no
+3403,24217N,IB Language A: Language and Literature Portuguese,no
+3404,24249N,Portuguese Other,no
+3405,24250N,German for Young Learners (prior-to-secondary),no
+3406,24251N,German Immersion (prior-to-secondary),no
+3407,24261N,Particular Topics in German,no
+3408,24266N,"IB Language B (German), Middle Years Program",no
+3409,24267N,IB Language A: Language and Literature German,no
+3410,24268N,IB Language Ab Initio German,no
+3411,24299N,German Other,no
+3412,24300N,Greek for Young Learners (prior-to-secondary),no
+3413,24301N,Greek Immersion (prior-to-secondary),no
+3414,24303N,Greek II,no
+3415,24311N,Particular Topics in Greek,no
+3416,24316N,"IB Language B (Greek), Middle Years Program",no
+3417,24317N,IB Language A: Language and Literature Greek,no
+3418,24340N,Latin for Young Learners (prior-to-secondary),no
+3419,24351N,Particular Topics in Latin,no
+3420,24369N,Latin Other,no
+3421,24370N,Classical Greek for Young Learners (prior-to-secondary),no
+3422,24381N,Particular Topics in Classical Greek,no
+3423,24389N,Classical Greek Other,no
+3424,24390N,Classical Hebrew for Young Learners (prior-to-secondary),no
+3425,24391N,Classical Hebrew I,no
+3426,24392N,Classical Hebrew II,no
+3427,24393N,Classical Hebrew III,no
+3428,24394N,Classical Hebrew IV,no
+3429,24395N,Classical Hebrew V,no
+3430,24396N,Particular Topics in Classical Hebrew,no
+3431,24399N,Classical Hebrew Other,no
+3432,24400N,Chinese for Young Learners (prior-to-secondary),no
+3433,24401N,Chinese Immersion (prior-to-secondary),no
+3434,24411N,Particular Topics in Chinese,no
+3435,24416N,"IB Language B (Chinese), Middle Years Program",no
+3436,24417N,IB Language A: Language and Literature Chinese,no
+3437,24418N,IB Language Ab Initio Chinese,no
+3438,24449N,Chinese Other,no
+3439,24450N,Japanese for Young Learners (prior-to-secondary),no
+3440,24451N,Japanese Immersion (prior-to-secondary),no
+3441,24461N,Particular Topics in Japanese,no
+3442,24466N,"IB Language B (Japanese), Middle Years Program",no
+3443,24467N,IB Language A: Language and Literature Japanese,no
+3444,24468N,IB Language Ab Initio Japanese,no
+3445,24499N,Japanese Other,no
+3446,24500N,Korean for Young Learners (prior-to-secondary),no
+3447,24501N,Korean Immersion (prior-to-secondary),no
+3448,24511N,Particular Topics in Korean,no
+3449,24513N,IB Language B Korean,no
+3450,24516N,"IB Language B (Korean), Middle Years Program",no
+3451,24549N,Korean Other,no
+3452,24550N,Vietnamese for Young Learners (prior-to-secondary),no
+3453,24551N,Vietnamese Immersion (prior-to-secondary),no
+3454,24561N,Particular Topics in Vietnamese,no
+3455,24566N,"IB Language B (Vietnamese), Middle Years Program",no
+3456,24567N,IB Language A: Language and Literature Vietnamese,no
+3457,24599N,Vietnamese Other,no
+3458,24600N,Filipino (prior-to-secondary),no
+3459,24601N,Filipino Immersion (prior-to-secondary),no
+3460,24611N,Particular Topics in Filipino,no
+3461,24616N,"IB Language B (Filipino), Middle Years Program",no
+3462,24617N,IB Language A: Language and Literature Filipino,no
+3463,24649N,Filipino Other,no
+3464,24650N,Russian (prior-to-secondary),no
+3465,24651N,Russian Immersion (prior-to-secondary),no
+3466,24661N,Particular Topics in Russian,no
+3467,24666N,"IB Language B (Russian), Middle Years Program",no
+3468,24667N,IB Language A: Language and Literature Russian,no
+3469,24668N,IB Language Ab Initio Russian,no
+3470,24699N,Russian Other,no
+3471,24700N,Hebrew (prior-to-secondary),no
+3472,24701N,Hebrew Immersion (prior-to-secondary),no
+3473,24711N,Particular Topics in Hebrew,no
+3474,24716N,"IB Language B (Hebrew), Middle Years Program",no
+3475,24717N,IB Language A: Language and Literature Hebrew,no
+3476,24749N,Hebrew Other,no
+3477,24750N,Arabic (prior-to-secondary),no
+3478,24751N,Arabic Immersion (prior-to-secondary),no
+3479,24761N,Particular Topics in Arabic,no
+3480,24766N,"IB Language B (Arabic), Middle Years Program",no
+3481,24767N,IB Language A: Language and Literature Arabic,no
+3482,24768N,IB Language Ab Initio Arabic,no
+3483,24799N,Arabic Other,no
+3484,24800N,Swahili (prior-to-secondary),no
+3485,24801N,Swahili Immersion (prior-to-secondary),no
+3486,24811N,Particular Topics in Swahili,no
+3487,24816N,"IB Language B (Swahili), Middle Years Program",no
+3488,24817N,IB Language A: Language and Literature Swahili,no
+3489,24818N,IB Language Ab Initio Swahili,no
+3490,24849N,Swahili Other,no
+3491,24850N,American Sign Language (prior-to-secondary),no
+3492,24851N,American Sign Language Immersion (prior-to-secondary),no
+3493,24861N,Particular Topics in American Sign Language,no
+3494,24866N,"IB Language B (American Sign Language), Middle Years Program",no
+3495,24900N,American Indian Language (prior-to-secondary),no
+3496,24901N,American Indian Language Immersion (prior-to-secondary),no
+3497,24911N,Particular Topics in American Indian Language,no
+3498,24916N,"IB Language B (American Indian Language), Middle Years Program",no
+3499,24917N,IB Language A: Language and Literature American Indian Language,no
+3500,24950N,World Language (Other Language) for Young Learners (prior-to-secondary),no
+3501,24951N,World Language (Other Language) Immersion (prior-to-secondary),no
+3502,24952N,World Language (Other Language) I,no
+3503,24953N,World Language (Other Language) II,no
+3504,24954N,World Language (Other Language) III,no
+3505,24955N,World Language (Other Language) IV,no
+3506,24956N,World Language (Other Language) V,no
+3507,24957N,World Language (Other Language) for Native Speakers,no
+3508,24958N,World Language (Other Language) Field Experience,no
+3509,24959N,World Language (Other Language) Conversation and Culture,no
+3510,24960N,World Language (Other Language) Literature,no
+3511,24961N,Particular Topics in World Language (Other Language),no
+3512,24966N,"IB Language B (Other World Language), Middle Years Program",no
+3513,24989N,World Language (Other Language) Other,no
+3514,24997N,World Language and Literature Independent Study,no
+3515,24999N,World Language and Literature Other,no
+3516,22251N,Community Living,no
+3517,22252N,Communication Instruction,no
+3518,22253N,Social Development Instruction,no
+3519,22254N,Developmental Support,no
+3520,WA0001,Bridge to College Language Arts,no
+3521,WA0002,Integrated Math  second year,no
+3522,WA0003,Bridge to College Mathematics,no
+3523,WA0004,Washington State History & Government,no
+3524,WA0005,AVID - Advanced Via Individual Determination,no
+3525,WA0006,Middle/Jr High Curriculum,no
+3526,WA0007,Elementary Curriculum,no
+3527,WA0008,Intensified Algebra,no
+3528,1996,English Language and Literature - Supplemental,no
+3529,24517N,IB Language A: Language and Literature - Korean,no
+3530,3070,PLTW Biomedical Innovation,no
+3531,5013,Dance for Musical Theater,no
+3532,5014,Ballet,no
+3533,5015,Jazz Dance,no
+3534,5016,Modern Dance,no
+3535,5017,Hip Hop,no
+3536,5018,Tap Dance,no
+3537,5063,Theater Design and Technology,no
+3538,5110,Chorus,no
+3539,5159,Ceramics/Pottery,no
+3540,5168,Cinematography/Video Production,no
+3541,5176,Calligraphy/Lettering,no
+3542,5195,Fundamentals of Design,no
+3543,5250,Media Arts—Comprehensive,no
+3544,5251,Digital Imaging,no
+3545,5252,Interactive Design,no
+3546,5253,Interactive Game Design,no
+3547,5254,Web Design,no
+3548,5255,Moving Image,no
+3549,5256,Moving Image – Animation,no
+3550,5257,Digital Sound Design,no
+3551,5258,Virtual Design,no
+3552,5259,Media for Performance,no
+3553,5260,Multimedia Design,no
+3554,5261,Intermedia Design,no
+3555,5262,Media Arts Theory,no
+3556,5263,Media Literacy,no
+3557,5264,Media Arts—Independent Study,no
+3558,5265,Media Arts—Workplace Experience,no
+3559,5266,Media Arts—Other ,no
+3560,21025,PLTW Engineering Design and Development ,no
+3561,24041,Braille,no
+3562,24042,IB Language B—English ,no
+3563,24043,IB Language Ab Initio—English,no
+3564,03070N,PLTW Biomedical Innovation,no
+3565,05013N,Dance for Musical Theater,no
+3566,05014N,Ballet,no
+3567,05015N,Jazz Dance,no
+3568,05016N,Modern Dance,no
+3569,05017N,Hip Hop,no
+3570,05018N,Tap Dance,no
+3571,05063N,Theater Design and Technology,no
+3572,05110N,Chorus,no
+3573,05159N,Ceramics/Pottery,no
+3574,05195N,Fundamentals of Design,no
+3575,05250N,Media Arts—Comprehensive,no
+3576,05251N,Digital Imaging,no
+3577,05252N,Interactive Design,no
+3578,05253N,Interactive Game Design,no
+3579,05254N,Web Design,no
+3580,05255N,Moving Image,no
+3581,05256N,Moving Image – Animation,no
+3582,05257N,Digital Sound Design,no
+3583,05258N,Virtual Design,no
+3584,05259N,Media for Performance,no
+3585,05260N,Multimedia Design,no
+3586,05261N,Intermedia Design,no
+3587,05262N,Media Arts Theory,no
+3588,05263N,Media Literacy,no
+3589,05264N,Media Arts—Independent Study,no
+3590,05265N,Media Arts—Workplace Experience,no
+3591,05266N,Media Arts—Other ,no
+3592,21025N,PLTW Engineering Design and Development ,no
+3593,24041N,Braille,no
+3594,24042N,IB Language B—English ,no
+3595,24043N,IB Language Ab Initio—English,no
+3596,10015N,PLTW Computer Science and Software Engineering,no
+3597,10013N,PLTW Introduction to Computer Science,no
+3598,10014N,PLTW Computer Science Applications,no
+3599,5097,Theater—Independent Study ,no
+3600,5102,Concert Band ,no
+3601,5113,Music Theory ,no
+3602,05002N,Dance Repertory,no
+3603,05004N,Dance History and Appreciation,no
+3604,05051N,Introduction to Theater,no
+3605,05060N,Musical Theater,no
+3606,05061N,Theatrical Production and Management,no
+3607,05097N,Theater—Independent Study ,no
+3608,05101N,General Band,no
+3609,05111N,Vocal Ensemble,no
+3610,05116N,Music History/Appreciation,no
+3611,05118N,Music Appreciation,no
+3612,05120N,Strings,no
+3613,05121N,Contemporary Vocal Ensemble,no
+3614,05122N,Culturally Influenced Ensemble,no
+3615,05151N,Art Appreciation,no
+3616,05152N,Art History,no
+3617,05154N,Visual Art—Comprehensive,no
+3618,05155N,Visual Arts—Drawing/Painting,no
+3619,05156N,Visual Arts—Drawing,no
+3620,05157N,Visual Arts—Painting,no
+3621,05158N,Visual Arts—Sculpture,no
+3622,05165N,Crafts,no
+3623,05167N,Photography,no
+3624,05168N,Cinematography/Video Production,no
+3625,05197N,Visual Art—Independent Study,no
+3626,5060,Musical Theater,no
+3627,5061,Theatrical Production and Management,no
+3628,5120,Strings,no
+3629,5121,Contemporary Vocal Ensemble,no
+3630,5122,Culturally Influenced Ensemble,no
+3631,5123,Recording and Production ,no
+3632,5174,AP Studio Art—Two-Dimensional,no
+3633,5175,AP Studio Art—Three-Dimensional,no
+3634,5177,Animation,no
+3635,5190,Fashion Design,no
+3636,5191,Industrial Design,no
+3637,5192,Architectural Design,no
+3638,5193,Interior Design,no
+3639,5002,Dance Repertory,no
+3640,5004,Dance History and Appreciation,no
+3641,5051,Introduction to Theater,no
+3642,5058,Playwriting and Screenwriting,no
+3643,5101,General Band,no
+3644,5107,Piano,no
+3645,5108,Guitar,no
+3646,5109,Individual Technique—Instrumental Music,no
+3647,5111,Vocal Ensemble,no
+3648,5112,Individual Technique—Vocal Music,no
+3649,5117,Music History,no
+3650,5118,Music Appreciation,no
+3651,5119,Composition/Songwriting,no
+3652,5151,Art Appreciation,no
+3653,5152,Art History,no
+3654,5153,AP Art History,no
+3655,5154,Visual Art—Comprehensive,no
+3656,5155,Visual Arts—Drawing/Painting,no
+3657,5156,Visual Arts—Drawing,no
+3658,5157,Visual Arts—Painting,no
+3659,5158,Visual Arts—Sculpture,no
+3660,5161,Printmaking,no
+3661,5162,Visual Communications Design,no
+3662,5163,Advertising Design,no
+3663,5165,Crafts,no
+3664,5166,Jewelry,no
+3665,5167,Photography,no
+3666,5169,Multimedia Art,no
+3667,5170,Art Portfolio,no
+3668,5172,AP Studio Art—Drawing,no
+3669,5197,Visual Art—Independent Study,no
+3670,05001N,Dance Technique,no
+3671,05052N,Theater Arts,no
+3672,05053N,Theater—Comprehensive,no
+3673,05102N,Concert Band ,no
+3674,05104N,Orchestra,no
+3675,05106N,Small Ensemble,no
+3676,5001,Dance Technique,no
+3677,5052,Theater Arts,no
+3678,5053,Theater—Comprehensive,no
+3679,5055,Theater—Acting/Performance,no
+3680,5056,Theater—Stagecraft,no
+3681,5057,Theater—Directing,no
+3682,5104,Orchestra,no
+3683,5106,Small Ensemble,no
+3684,5116,Music History/Appreciation,no
+3685,5164,Fibers and Textile Design,no
+3686,5173,IB Visual Art,no
+3687,4439,Social Studies-General,no
