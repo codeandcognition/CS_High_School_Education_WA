@@ -32,7 +32,7 @@ Python is a scripting language for data science used by programmers that want to
 - **Learn:** There are many online Python courses. Our recommendation are the **[Microsoft Python for Data Science edX courses](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)**. 	
 - **[Documentation](https://www.python.org/doc/)**
 
-#####Python Data Science Packages
+##### Python Data Science Packages
 		
 - **Pandas**: for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. The course recommended above discusses how to use this package in detail.
 	- **[Installation Guide](https://pandas.pydata.org/pandas-docs/stable/install.html)**
@@ -47,7 +47,7 @@ The Jupyter Notebook is a very powerful tool for creating and presenting data sc
 
 - **[CheatSheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)**
 
-####Microsoft Power BI Online
+#### Microsoft Power BI Online
 
 Power BI, is a data visualization web application (similar to Tableau) which is used to build data driven reports and dashboards which contain interactive visualizations such as pie charts, bar charts, bubble maps,chloropleth maps, and more. 
 
